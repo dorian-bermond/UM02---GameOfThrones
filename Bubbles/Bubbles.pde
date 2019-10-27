@@ -287,7 +287,7 @@ void setup()
   House house ;
   ArrayList<Integer> relations ;
 
-  table = loadTable("GOT.csv", "header") ;
+  table = loadTable("../GOT.csv", "header") ;
   table.sortReverse(INDICATOR) ;
   maxInd = table.getRow(0).getFloat(INDICATOR) ;
   minInd = table.getRow(MAX_NUMBER_OF_CHARACTERS - 1).getFloat(INDICATOR) ;
