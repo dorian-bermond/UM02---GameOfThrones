@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1236.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-596.000000 -522.876160 1236.000000 1011.841187"
+     height="1011.8412" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.8314452"
+              d="M -374.656464,-316.048431 C -253.881027,-308.880707 -83.469467,-116.965996 -90.637177,3.809438"
+              class="id_Brandon_Stark id_Arthur_Dayne"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M -374.656464,-316.048431 C -290.541168,-224.268707 -302.037842,39.573875 -393.817566,123.689171"
+              class="id_Brandon_Stark id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -374.656464,-316.048431 C -277.220062,-344.183624 -88.862717,-240.231812 -60.727539,-142.795410"
+              class="id_Brandon_Stark id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -123.275543,-455.240814 462.584351,-286.958008 601.776733,-35.577076"
+              class="id_Brandon_Stark id_Cellador" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -374.656464,-316.048431 C -132.931534,-351.294861 282.525513,-41.577133 317.771942,200.147797"
+              class="id_Brandon_Stark id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -374.656464,-316.048431 C -201.746719,-214.866974 -94.154312,196.269775 -195.335770,369.179535"
+              class="id_Brandon_Stark id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="8.103791"
+              d="M -374.656464,-316.048431 C -305.133789,-364.415527 -128.299118,-332.682220 -79.931992,-263.159546"
+              class="id_Brandon_Stark id_Luwin" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="4.5213"
+              d="M -374.656464,-316.048431 C -369.069305,-246.115326 -465.588257,-132.834900 -535.521362,-127.247726"
+              class="id_Brandon_Stark id_Hoster_Tully"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="3.5073872"
+              d="M -374.656464,-316.048431 C -362.765808,-295.887756 -375.170837,-247.810822 -395.331482,-235.920181"
+              class="id_Brandon_Stark id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -374.656464,-316.048431 C -358.014526,-282.254822 -383.742096,-206.601501 -417.535706,-189.959579"
+              class="id_Brandon_Stark id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#ff8805"/>
+        <path fill="none" stroke-width="3.2370105"
+              d="M -374.656464,-316.048431 C -331.971313,-380.043274 -171.951324,-412.007813 -107.956490,-369.322662"
+              class="id_Brandon_Stark id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -374.656464,-316.048431 C -223.690460,-464.416687 225.310913,-460.520081 373.679169,-309.554047"
+              class="id_Brandon_Stark id_Cotter_Pyke"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -374.656464,-316.048431 C -189.532639,-357.618835 150.508698,-142.288696 192.079102,42.835133"
+              class="id_Brandon_Stark id_Rhaegar_Targaryen"
+              stroke-opacity="0.29803923" stroke="#7fa682"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -374.656464,-316.048431 C -248.831406,-226.223755 -194.830795,97.250885 -284.655487,223.075958"
+              class="id_Brandon_Stark id_Cersei_Lannister"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="4.115735"
+              d="M -374.656464,-316.048431 C -300.164276,-293.125458 -222.810516,-147.002686 -245.733490,-72.510498"
+              class="id_Brandon_Stark id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="3.3721988"
+              d="M -374.656464,-316.048431 C -181.813889,-452.304932 311.834778,-367.425842 448.091278,-174.583267"
+              class="id_Brandon_Stark id_Janos_Slynt"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -374.656464,-316.048431 C -174.085587,-277.002045 68.201210,82.423889 29.154821,282.994781"
+              class="id_Brandon_Stark id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -374.656464,-316.048431 C -128.030029,-397.118286 363.514374,-148.783386 444.584198,97.843040"
+              class="id_Brandon_Stark id_Baelor_I_Targaryen"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -374.656464,-316.048431 C -271.140594,-303.301727 -134.986862,-128.907883 -147.733566,-25.392008"
+              class="id_Brandon_Stark id_Lysa_Arryn" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -374.656464,-316.048431 C -260.410736,-410.316132 52.359344,-380.349121 146.627045,-266.103394"
+              class="id_Brandon_Stark id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -202.775421,-501.908142 333.835632,-522.876160 519.695313,-350.995087"
+              class="id_Brandon_Stark id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -374.656464,-316.048431 C -307.868042,-335.708557 -178.195160,-265.016144 -158.535019,-198.227707"
+              class="id_Brandon_Stark id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -192.683670,-405.748474 214.825577,-267.339386 304.525635,-85.366585"
+              class="id_Brandon_Stark id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.845358"
+              d="M -374.656464,-316.048431 C -272.110168,-431.764832 55.283813,-451.519958 171.000198,-348.973663"
+              class="id_Brandon_Stark id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -306.112915,-270.846130 -271.100983,-100.227310 -316.303284,-31.683737"
+              class="id_Brandon_Stark id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -374.656464,-316.048431 C -189.711731,-473.333557 323.633026,-431.844147 480.918152,-246.899414"
+              class="id_Brandon_Stark id_Bowen_Marsh"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -281.251465,-406.872803 -4.907425,-403.001862 85.916946,-309.596863"
+              class="id_Brandon_Stark id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -305.860626,-236.732941 -321.640137,-14.566003 -400.955627,54.229820"
+              class="id_Brandon_Stark id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -374.656464,-316.048431 C -287.375183,-443.686523 35.003876,-504.221771 162.641983,-416.940491"
+              class="id_Brandon_Stark id_Benjen_Stark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -242.660873,-293.355652 -78.706604,-61.323074 -101.399384,70.672531"
+              class="id_Brandon_Stark id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -107.539398,-321.858795 301.851715,70.101227 307.662079,337.218292"
+              class="id_Brandon_Stark id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -374.656464,-316.048431 C -127.174255,-279.707703 189.538025,146.026672 153.197311,393.508881"
+              class="id_Brandon_Stark id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="4.7240825"
+              d="M 162.641983,-416.940491 C 144.883377,-337.669495 -0.661009,-245.400940 -79.931992,-263.159546"
+              class="id_Benjen_Stark id_Luwin" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 162.641983,-416.940491 C 80.947861,-219.369278 -337.950134,-45.553604 -535.521362,-127.247726"
+              class="id_Benjen_Stark id_Hoster_Tully"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="3.5749812"
+              d="M 162.641983,-416.940491 C 118.045853,-353.297241 -44.313225,-324.726532 -107.956490,-369.322662"
+              class="id_Benjen_Stark id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 162.641983,-416.940491 C 226.326721,-437.670624 352.949036,-373.238770 373.679169,-309.554047"
+              class="id_Benjen_Stark id_Cotter_Pyke" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="8.374168"
+              d="M 162.641983,-416.940491 C 189.606415,-383.570099 179.997452,-293.067841 146.627045,-266.103394"
+              class="id_Benjen_Stark id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 162.641983,-416.940491 C 154.804932,-235.457947 -129.174438,25.010338 -310.656982,17.173292"
+              class="id_Benjen_Stark id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 162.641983,-416.940491 C 168.765701,-380.126770 122.730682,-315.720581 85.916946,-309.596863"
+              class="id_Benjen_Stark id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 162.641983,-416.940491 C 196.136139,-282.134674 44.168636,-29.684719 -90.637177,3.809438"
+              class="id_Benjen_Stark id_Arthur_Dayne"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 162.641983,-416.940491 C 317.085632,-324.548828 410.163605,45.704147 317.771942,200.147797"
+              class="id_Benjen_Stark id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 162.641983,-416.940491 C 242.943054,-270.940857 144.395203,68.510254 -1.604447,148.811340"
+              class="id_Benjen_Stark id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 162.641983,-416.940491 C 260.305450,-446.587524 451.271118,-344.562866 480.918152,-246.899414"
+              class="id_Benjen_Stark id_Bowen_Marsh" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 162.641983,-416.940491 C 209.700409,-167.750519 -93.496872,276.622009 -342.686829,323.680420"
+              class="id_Benjen_Stark id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 162.641983,-416.940491 C 142.149139,-308.962524 -50.557064,-177.734863 -158.535019,-198.227707"
+              class="id_Benjen_Stark id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 162.641983,-416.940491 C 268.203278,-425.558899 439.472870,-280.144562 448.091278,-174.583267"
+              class="id_Benjen_Stark id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 247.241745,-475.162079 461.473724,-435.594849 519.695313,-350.995087"
+              class="id_Benjen_Stark id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 162.641983,-416.940491 C 192.596329,-368.294922 164.559479,-250.395050 115.913910,-220.440720"
+              class="id_Benjen_Stark id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 228.895294,-332.122437 201.048187,-105.515480 116.230141,-39.262188"
+              class="id_Benjen_Stark id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 321.987122,-370.372253 491.152435,-61.502106 444.584198,97.843040"
+              class="id_Benjen_Stark id_Baelor_I_Targaryen"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.4397929"
+              d="M 162.641983,-416.940491 C 177.906998,-405.018768 182.921921,-364.238647 171.000198,-348.973663"
+              class="id_Benjen_Stark id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 172.797089,-317.437561 38.775379,-152.950516 -60.727539,-142.795410"
+              class="id_Benjen_Stark id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 260.484528,-330.872772 278.146790,-55.007416 192.079102,42.835133"
+              class="id_Benjen_Stark id_Rhaegar_Targaryen"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 342.477753,-295.112762 429.489807,157.382523 307.662079,337.218292"
+              class="id_Benjen_Stark id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 162.641983,-416.940491 C 294.615234,-381.827087 439.905029,-131.197159 404.791656,0.776103"
+              class="id_Benjen_Stark id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 192.079102,42.835133 C 63.946964,216.202423 -388.302155,284.055115 -561.669434,155.922989"
+              class="id_Rhaegar_Targaryen id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 192.079102,42.835133 C 75.751083,163.721024 -280.069733,170.557831 -400.955627,54.229820"
+              class="id_Rhaegar_Targaryen id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 192.079102,42.835133 C 18.845921,104.566185 -333.600433,-62.686996 -395.331482,-235.920181"
+              class="id_Rhaegar_Targaryen id_Jon_Umber"
+              stroke-opacity="0.29803923" stroke="#7fa682"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 192.079102,42.835133 C 179.865021,185.586990 -52.583916,381.393616 -195.335770,369.179535"
+              class="id_Rhaegar_Targaryen id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 192.079102,42.835133 C 132.780350,174.230225 -153.260391,282.374695 -284.655487,223.075958"
+              class="id_Rhaegar_Targaryen id_Cersei_Lannister"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 192.079102,42.835133 C 248.680206,49.159100 324.095886,143.546692 317.771942,200.147797"
+              class="id_Rhaegar_Targaryen id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 192.079102,42.835133 C 91.070572,176.185272 -260.467438,224.697693 -393.817566,123.689171"
+              class="id_Rhaegar_Targaryen id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M 192.079102,42.835133 C 127.730705,91.573250 -41.899059,68.157829 -90.637177,3.809438"
+              class="id_Rhaegar_Targaryen id_Arthur_Dayne"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 192.079102,42.835133 C 280.335815,36.571373 422.116547,159.560806 428.380280,247.817520"
+              class="id_Rhaegar_Targaryen id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M 192.079102,42.835133 C 207.526184,123.451920 109.771606,267.547699 29.154821,282.994781"
+              class="id_Rhaegar_Targaryen id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 192.079102,42.835133 C 253.581711,3.335697 405.084778,36.340443 444.584198,97.843040"
+              class="id_Rhaegar_Targaryen id_Baelor_I_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 192.079102,42.835133 C 274.072327,78.595169 343.422089,255.225082 307.662079,337.218292"
+              class="id_Rhaegar_Targaryen id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 192.079102,42.835133 C 254.437500,120.746239 231.108414,331.150513 153.197311,393.508881"
+              class="id_Rhaegar_Targaryen id_Moon_Boy"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M 192.079102,42.835133 C 121.200989,-9.862161 93.929749,-195.225281 146.627045,-266.103394"
+              class="id_Rhaegar_Targaryen id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 192.079102,42.835133 C 188.928055,-5.294521 256.395966,-82.215553 304.525635,-85.366585"
+              class="id_Rhaegar_Targaryen id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 192.079102,42.835133 C 226.209808,-8.119186 353.837341,-33.354603 404.791656,0.776103"
+              class="id_Rhaegar_Targaryen id_Barth" stroke-opacity="0.29803923"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -79.931992,-263.159546 C -143.867508,-144.859314 -417.221130,-63.312218 -535.521362,-127.247726"
+              class="id_Luwin id_Hoster_Tully" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -79.931992,-263.159546 C 23.455078,-113.610954 -45.787178,265.792450 -195.335770,369.179535"
+              class="id_Luwin id_Renly_Baratheon" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="3.5073872"
+              d="M -79.931992,-263.159546 C -35.208950,-309.060120 100.726463,-310.826416 146.627045,-266.103394"
+              class="id_Luwin id_Samwell_Tarly" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="10.604776"
+              d="M -79.931992,-263.159546 C -106.769508,-278.787292 -123.584213,-342.485138 -107.956490,-369.322662"
+              class="id_Luwin id_Rickon_Stark" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -79.931992,-263.159546 C 1.511344,-363.160675 273.678040,-390.997375 373.679169,-309.554047"
+              class="id_Luwin id_Cotter_Pyke" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.4397929"
+              d="M -79.931992,-263.159546 C -132.812729,-180.998810 -335.374969,-137.078827 -417.535706,-189.959579"
+              class="id_Luwin id_Rickard_Karstark" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="3.9805462"
+              d="M -79.931992,-263.159546 C -137.564011,-194.631775 -326.803711,-178.288162 -395.331482,-235.920181"
+              class="id_Luwin id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M -79.931992,-263.159546 C -74.962479,-191.869446 -174.443375,-77.480003 -245.733490,-72.510498"
+              class="id_Luwin id_Edmure_Tully" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -79.931992,-263.159546 C -28.679230,-207.624710 -35.102341,-47.443325 -90.637177,3.809438"
+              class="id_Luwin id_Arthur_Dayne" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -79.931992,-263.159546 C -23.629585,-124.967743 -146.463684,166.773560 -284.655487,223.075958"
+              class="id_Luwin id_Cersei_Lannister" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="6.346343"
+              d="M -79.931992,-263.159546 C -52.018276,-242.927612 -40.495602,-170.709137 -60.727539,-142.795410"
+              class="id_Luwin id_Wyman_Manderly" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="3.7777638"
+              d="M -79.931992,-263.159546 C -82.666229,-234.452560 -129.828033,-195.493469 -158.535019,-198.227707"
+              class="id_Luwin id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#ff6e44"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -79.931992,-263.159546 C -32.219044,-293.784973 85.288498,-268.153656 115.913910,-220.440720"
+              class="id_Luwin id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -79.931992,-263.159546 C -56.049667,-305.616821 43.459694,-333.479187 85.916946,-309.596863"
+              class="id_Luwin id_Denys_Mallister" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -79.931992,-263.159546 C -15.114952,-93.240570 -172.767853,258.863373 -342.686829,323.680420"
+              class="id_Luwin id_Beric_Dondarrion" stroke-opacity="0.29803923"
+              stroke="#7fa24c"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -79.931992,-263.159546 C -80.911087,-169.590118 -222.733856,-30.704643 -316.303284,-31.683737"
+              class="id_Luwin id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -79.931992,-263.159546 C 123.925873,-262.626587 428.913239,43.959648 428.380280,247.817520"
+              class="id_Luwin id_Aegon_IV_Targaryen" stroke-opacity="0.29803923"
+              stroke="#7fa682"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -79.931992,-263.159546 C 97.171761,-295.862274 411.881470,-79.260712 444.584198,97.843040"
+              class="id_Luwin id_Baelor_I_Targaryen" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M -79.931992,-263.159546 C -46.908379,-330.508789 103.650932,-381.997284 171.000198,-348.973663"
+              class="id_Luwin id_Bael_the_Bard" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -79.931992,-263.159546 C 32.518135,-304.492493 263.192688,-197.816711 304.525635,-85.366585"
+              class="id_Luwin id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="6.413937"
+              d="M -535.521362,-127.247726 C -466.616333,-174.257858 -292.743622,-141.415527 -245.733490,-72.510498"
+              class="id_Hoster_Tully id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -535.521362,-127.247726 C -529.217896,-177.020203 -445.103943,-242.223663 -395.331482,-235.920181"
+              class="id_Hoster_Tully id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -535.521362,-127.247726 C -524.466614,-163.387238 -453.675201,-201.014343 -417.535706,-189.959579"
+              class="id_Hoster_Tully id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -535.521362,-127.247726 C -348.265930,-333.437378 241.901642,-361.838684 448.091278,-174.583267"
+              class="id_Hoster_Tully id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -535.521362,-127.247726 C -415.283447,-107.356171 -264.763947,102.838058 -284.655487,223.075958"
+              class="id_Hoster_Tully id_Cersei_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -299.383606,-232.427277 212.592377,-35.989960 317.771942,200.147797"
+              class="id_Hoster_Tully id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -535.521362,-127.247726 C -340.537628,-158.134476 -1.731926,88.011047 29.154821,282.994781"
+              class="id_Hoster_Tully id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -535.521362,-127.247726 C -294.482086,-278.250702 293.581238,-143.196228 444.584198,97.843040"
+              class="id_Hoster_Tully id_Baelor_I_Targaryen"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="3.3046045"
+              d="M -535.521362,-127.247726 C -472.564941,-151.978546 -341.034119,-94.640152 -316.303284,-31.683737"
+              class="id_Hoster_Tully id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -535.521362,-127.247726 C -456.993225,-105.401108 -371.970947,45.161034 -393.817566,123.689171"
+              class="id_Hoster_Tully id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -535.521362,-127.247726 C -267.727966,-245.014999 310.613007,-19.975845 428.380280,247.817520"
+              class="id_Hoster_Tully id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -535.521362,-127.247726 C -498.423370,-261.175690 -241.884460,-406.420654 -107.956490,-369.322662"
+              class="id_Hoster_Tully id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -535.521362,-127.247726 C -443.672119,-225.316040 -158.795853,-234.644638 -60.727539,-142.795410"
+              class="id_Hoster_Tully id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -535.521362,-127.247726 C -437.592651,-184.434143 -204.919983,-123.320709 -147.733566,-25.392008"
+              class="id_Hoster_Tully id_Lysa_Arryn" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -535.521362,-127.247726 C -368.198792,-95.999397 -164.087448,201.856995 -195.335770,369.179535"
+              class="id_Hoster_Tully id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -359.135742,-286.880890 144.892456,-261.752197 304.525635,-85.366585"
+              class="id_Hoster_Tully id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -535.521362,-127.247726 C -406.768829,-75.628998 -291.068085,194.927872 -342.686829,323.680420"
+              class="id_Hoster_Tully id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -535.521362,-127.247726 C -484.116821,-65.383972 -499.805664,104.518463 -561.669434,155.922989"
+              class="id_Hoster_Tully id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -461.664276,-143.336395 -326.745636,-56.683792 -310.656982,17.173292"
+              class="id_Hoster_Tully id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -472.312714,-117.865372 -391.573273,-8.978832 -400.955627,54.229820"
+              class="id_Hoster_Tully id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -321.853973,-289.705566 242.333817,-212.891266 404.791656,0.776103"
+              class="id_Hoster_Tully id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -535.521362,-127.247726 C -409.112915,-174.488068 -148.639740,-55.735924 -101.399384,70.672531"
+              class="id_Hoster_Tully id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -535.521362,-127.247726 C -273.991455,-202.991211 231.918594,75.688400 307.662079,337.218292"
+              class="id_Hoster_Tully id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -90.637177,3.809438 C -18.570023,-139.614807 304.667053,-246.650421 448.091278,-174.583267"
+              class="id_Arthur_Dayne id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -90.637177,3.809438 C 30.312321,-38.604713 275.357788,79.198303 317.771942,200.147797"
+              class="id_Arthur_Dayne id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -90.637177,3.809438 C -43.830246,15.003275 9.589390,102.004410 -1.604447,148.811340"
+              class="id_Arthur_Dayne id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -90.637177,3.809438 C -168.727463,-67.353127 -179.119049,-291.232361 -107.956490,-369.322662"
+              class="id_Arthur_Dayne id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -90.637177,3.809438 C -85.587540,86.466400 -201.998520,218.026321 -284.655487,223.075958"
+              class="id_Arthur_Dayne id_Cersei_Lannister"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -90.637177,3.809438 C -127.297310,88.421463 -309.205536,160.349304 -393.817566,123.689171"
+              class="id_Arthur_Dayne id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -90.637177,3.809438 C -144.624176,-23.018425 -185.362869,-144.240707 -158.535019,-198.227707"
+              class="id_Arthur_Dayne id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -90.637177,3.809438 C -57.878040,-46.178352 66.242348,-72.021324 116.230141,-39.262188"
+              class="id_Arthur_Dayne id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -90.637177,3.809438 C -113.976219,-31.493460 -96.030434,-119.456367 -60.727539,-142.795410"
+              class="id_Arthur_Dayne id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -90.637177,3.809438 C 55.704445,-9.168640 294.683990,190.876678 307.662079,337.218292"
+              class="id_Arthur_Dayne id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -90.637177,3.809438 C -10.841702,35.688107 61.033493,203.199310 29.154821,282.994781"
+              class="id_Arthur_Dayne id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -90.637177,3.809438 C 39.968307,-142.550659 455.416656,-166.182556 601.776733,-35.577076"
+              class="id_Arthur_Dayne id_Cellador" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -90.637177,3.809438 C -26.467892,-160.643402 316.465302,-311.068695 480.918152,-246.899414"
+              class="id_Arthur_Dayne id_Bowen_Marsh" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -90.637177,3.809438 C -199.521957,16.802372 -382.338531,-127.035400 -395.331482,-235.920181"
+              class="id_Arthur_Dayne id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -90.637177,3.809438 C -142.616791,75.957207 -328.807861,106.209442 -400.955627,54.229820"
+              class="id_Arthur_Dayne id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -90.637177,3.809438 C -77.072922,118.193573 -228.302689,310.116180 -342.686829,323.680420"
+              class="id_Arthur_Dayne id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -331.036316,187.095734 -346.637238,63.554119 -310.656982,17.173292"
+              class="id_Cersei_Lannister id_Yohn_Royce"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -284.655487,223.075958 C -242.898209,151.612823 -73.067581,107.054054 -1.604447,148.811340"
+              class="id_Cersei_Lannister id_Meryn_Trant"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -284.655487,223.075958 C -276.140869,254.803116 -310.959686,315.165802 -342.686829,323.680420"
+              class="id_Cersei_Lannister id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="3.7101696"
+              d="M -284.655487,223.075958 C -209.909668,172.297668 -21.623474,208.248962 29.154821,282.994781"
+              class="id_Cersei_Lannister id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -398.589905,153.411926 -464.995514,-121.985741 -395.331482,-235.920181"
+              class="id_Cersei_Lannister id_Jon_Umber"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -237.570816,234.432739 -183.978989,322.094879 -195.335770,369.179535"
+              class="id_Cersei_Lannister id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -284.655487,223.075958 C -296.234863,38.983582 -37.465332,-254.524017 146.627045,-266.103394"
+              class="id_Cersei_Lannister id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -284.655487,223.075958 C -367.795410,69.256439 -261.776001,-286.182739 -107.956490,-369.322662"
+              class="id_Cersei_Lannister id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="3.4397929"
+              d="M -284.655487,223.075958 C -278.484955,155.944061 -168.531281,64.501991 -101.399384,70.672531"
+              class="id_Cersei_Lannister id_Ilyn_Payne"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -284.655487,223.075958 C -326.365265,225.031021 -391.862488,165.398941 -393.817566,123.689171"
+              class="id_Cersei_Lannister id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -284.655487,223.075958 C -168.755646,98.004845 192.700836,84.247948 317.771942,200.147797"
+              class="id_Cersei_Lannister id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -284.655487,223.075958 C -217.638000,-3.005249 222.010071,-241.600769 448.091278,-174.583267"
+              class="id_Cersei_Lannister id_Janos_Slynt"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -284.655487,223.075958 C -335.988373,156.174271 -312.635162,-21.177607 -245.733490,-72.510498"
+              class="id_Cersei_Lannister id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M -284.655487,223.075958 C -163.854126,52.181427 273.689697,-22.958321 444.584198,97.843040"
+              class="id_Cersei_Lannister id_Baelor_I_Targaryen"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.3721988"
+              d="M -284.655487,223.075958 C -256.945984,90.431213 -16.414612,-66.971680 116.230141,-39.262188"
+              class="id_Cersei_Lannister id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -284.655487,223.075958 C -353.488892,265.048157 -519.697205,224.756363 -561.669434,155.922989"
+              class="id_Cersei_Lannister id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -284.655487,223.075958 C -313.044189,105.116081 -178.687408,-114.406723 -60.727539,-142.795410"
+              class="id_Cersei_Lannister id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -284.655487,223.075958 C -341.936981,178.453583 -360.925659,25.597761 -316.303284,-31.683737"
+              class="id_Cersei_Lannister id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -137.100021,85.417130 290.721436,100.262054 428.380280,247.817520"
+              class="id_Cersei_Lannister id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -159.099640,-5.941101 372.759674,-161.132919 601.776733,-35.577076"
+              class="id_Cersei_Lannister id_Cellador"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -162.998352,169.591980 99.713333,271.851746 153.197311,393.508881"
+              class="id_Cersei_Lannister id_Moon_Boy"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -284.655487,223.075958 C -143.363510,127.440903 212.027023,195.926315 307.662079,337.218292"
+              class="id_Cersei_Lannister id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -284.655487,223.075958 C -341.684753,212.566757 -411.464813,111.259079 -400.955627,54.229820"
+              class="id_Cersei_Lannister id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M -284.655487,223.075958 C -191.226013,40.726563 222.442261,-92.653366 404.791656,0.776103"
+              class="id_Cersei_Lannister id_Barth" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 444.584198,97.843040 C 282.073090,270.692627 -220.968002,286.200287 -393.817566,123.689171"
+              class="id_Baelor_I_Targaryen id_Aerys_II_Targaryen"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.5749812"
+              d="M 444.584198,97.843040 C 365.540131,197.274429 97.826942,227.855408 -1.604447,148.811340"
+              class="id_Baelor_I_Targaryen id_Meryn_Trant"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 444.584198,97.843040 C 301.473633,191.659576 -53.917023,117.718552 -147.733566,-25.392008"
+              class="id_Baelor_I_Targaryen id_Lysa_Arryn"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 444.584198,97.843040 C 449.338684,39.720512 543.654236,-40.331558 601.776733,-35.577076"
+              class="id_Baelor_I_Targaryen id_Cellador"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 444.584198,97.843040 C 329.953369,201.605652 2.363231,185.303345 -101.399384,70.672531"
+              class="id_Baelor_I_Targaryen id_Ilyn_Payne"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 444.584198,97.843040 C 471.338318,131.078720 461.615967,221.063400 428.380280,247.817520"
+              class="id_Baelor_I_Targaryen id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M 444.584198,97.843040 C 351.492340,136.092804 154.479904,53.829674 116.230141,-39.262188"
+              class="id_Baelor_I_Targaryen id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 444.584198,97.843040 C 295.394165,150.777695 -7.792885,6.394630 -60.727539,-142.795410"
+              class="id_Baelor_I_Targaryen id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 444.584198,97.843040 C 348.923767,30.544624 306.380737,-213.893616 373.679169,-309.554047"
+              class="id_Baelor_I_Targaryen id_Cotter_Pyke"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.3721988"
+              d="M 444.584198,97.843040 C 390.800354,42.656364 392.904602,-120.799423 448.091278,-174.583267"
+              class="id_Baelor_I_Targaryen id_Janos_Slynt"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 444.584198,97.843040 C 272.449951,201.835876 -141.740662,99.623749 -245.733490,-72.510498"
+              class="id_Baelor_I_Targaryen id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 444.584198,97.843040 C 379.930542,89.212830 295.895416,-20.712946 304.525635,-85.366585"
+              class="id_Baelor_I_Targaryen id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 444.584198,97.843040 C 439.682678,143.666443 363.595337,205.049301 317.771942,200.147797"
+              class="id_Baelor_I_Targaryen id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 444.584198,97.843040 C 445.440002,215.253601 270.607880,392.653076 153.197311,393.508881"
+              class="id_Baelor_I_Targaryen id_Moon_Boy"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 444.584198,97.843040 C 332.297485,300.464722 -140.065140,435.967163 -342.686829,323.680420"
+              class="id_Baelor_I_Targaryen id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="3.5073872"
+              d="M 444.584198,97.843040 C 465.074829,173.102509 382.921570,316.727661 307.662079,337.218292"
+              class="id_Baelor_I_Targaryen id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="3.4397929"
+              d="M 444.584198,97.843040 C 417.212311,86.388161 393.336761,28.148003 404.791656,0.776103"
+              class="id_Baelor_I_Targaryen id_Barth" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M 444.584198,97.843040 C 398.528687,217.959259 149.271057,329.050293 29.154821,282.994781"
+              class="id_Baelor_I_Targaryen id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 444.584198,97.843040 C 370.867493,280.094360 -13.084465,442.896240 -195.335770,369.179535"
+              class="id_Baelor_I_Targaryen id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 444.584198,97.843040 C 312.203491,84.645172 133.429184,-133.722672 146.627045,-266.103394"
+              class="id_Baelor_I_Targaryen id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 444.584198,97.843040 C 266.501343,224.115173 -190.031143,146.399109 -316.303284,-31.683737"
+              class="id_Baelor_I_Targaryen id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -393.817566,123.689171 C -305.023132,133.090881 -185.934052,280.385101 -195.335770,369.179535"
+              class="id_Aerys_II_Targaryen id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -226.551956,-107.282944 370.804626,-202.842697 601.776733,-35.577076"
+              class="id_Aerys_II_Targaryen id_Cellador"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -393.817566,123.689171 C -345.937256,54.602207 -170.486359,22.792225 -101.399384,70.672531"
+              class="id_Aerys_II_Targaryen id_Ilyn_Payne"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -393.817566,123.689171 C -277.361969,70.955811 -23.578539,166.539185 29.154821,282.994781"
+              class="id_Aerys_II_Targaryen id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -393.817566,123.689171 C -230.450638,68.250130 97.758270,230.141968 153.197311,393.508881"
+              class="id_Aerys_II_Targaryen id_Moon_Boy"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -393.817566,123.689171 C -420.941162,163.706314 -521.652283,183.046600 -561.669434,155.922989"
+              class="id_Aerys_II_Targaryen id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -306.051849,-153.950241 242.055878,-438.760803 519.695313,-350.995087"
+              class="id_Aerys_II_Targaryen id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -236.207947,-3.337006 190.745758,42.538177 317.771942,200.147797"
+              class="id_Aerys_II_Targaryen id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -380.496460,3.774246 -180.642456,-156.116486 -60.727539,-142.795410"
+              class="id_Aerys_II_Targaryen id_Wyman_Manderly"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -393.817566,123.689171 C -210.815811,26.099060 210.071976,154.216553 307.662079,337.218292"
+              class="id_Aerys_II_Targaryen id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -403.440674,54.832420 -314.590240,-62.887375 -245.733490,-72.510498"
+              class="id_Aerys_II_Targaryen id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -393.817566,123.689171 C -461.290924,65.703049 -475.521820,-122.486198 -417.535706,-189.959579"
+              class="id_Aerys_II_Targaryen id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -393.817566,123.689171 C -324.398285,-10.910645 -18.369675,-108.681458 116.230141,-39.262188"
+              class="id_Aerys_II_Targaryen id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -393.817566,123.689171 C -466.042236,52.070080 -466.950562,-163.695526 -395.331482,-235.920181"
+              class="id_Aerys_II_Targaryen id_Jon_Umber"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -393.817566,123.689171 C -258.678345,-60.615288 220.487198,-134.363129 404.791656,0.776103"
+              class="id_Aerys_II_Targaryen id_Barth" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -393.817566,123.689171 C -409.137054,111.224915 -413.419891,69.549301 -400.955627,54.229820"
+              class="id_Aerys_II_Targaryen id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -393.817566,123.689171 C -384.527863,-58.914932 -96.687157,-318.886566 85.916946,-309.596863"
+              class="id_Aerys_II_Targaryen id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C 93.216980,-253.852600 490.719543,-189.521606 601.776733,-35.577076"
+              class="id_Wyman_Manderly id_Cellador" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M -60.727539,-142.795410 C -146.273285,-94.499573 -347.035645,-150.374435 -395.331482,-235.920181"
+              class="id_Wyman_Manderly id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C -83.671745,-91.737244 -194.675323,-49.566288 -245.733490,-72.510498"
+              class="id_Wyman_Manderly id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -60.727539,-142.795410 C -54.648064,-101.913521 -106.851685,-31.471481 -147.733566,-25.392008"
+              class="id_Wyman_Manderly id_Lysa_Arryn"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="9.117704"
+              d="M -60.727539,-142.795410 C -91.375488,-134.320374 -150.059982,-167.579758 -158.535019,-198.227707"
+              class="id_Wyman_Manderly id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="3.5749812"
+              d="M -60.727539,-142.795410 C -64.758934,-205.484604 23.227760,-305.565460 85.916946,-309.596863"
+              class="id_Wyman_Manderly id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="8.171386"
+              d="M -60.727539,-142.795410 C -4.629356,-157.480301 101.545258,-95.360367 116.230141,-39.262188"
+              class="id_Wyman_Manderly id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#e99d5a"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -60.727539,-142.795410 C -40.928310,-193.652771 65.056557,-240.239944 115.913910,-220.440720"
+              class="id_Wyman_Manderly id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -60.727539,-142.795410 C -101.172249,17.136650 -401.737366,196.367706 -561.669434,155.922989"
+              class="id_Wyman_Manderly id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -60.727539,-142.795410 C 83.560989,-149.906662 310.660706,55.859268 317.771942,200.147797"
+              class="id_Wyman_Manderly id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C 23.808863,-204.360291 242.960770,-169.902985 304.525635,-85.366585"
+              class="id_Wyman_Manderly id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -60.727539,-142.795410 C -7.197918,-263.028503 253.446091,-363.083679 373.679169,-309.554047"
+              class="id_Wyman_Manderly id_Cotter_Pyke"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -60.727539,-142.795410 C -115.478783,-178.655075 -143.816147,-314.571411 -107.956490,-369.322662"
+              class="id_Wyman_Manderly id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -60.727539,-142.795410 C 42.406967,-75.613846 96.336380,179.860275 29.154821,282.994781"
+              class="id_Wyman_Manderly id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C 14.745796,-13.478783 -66.019142,293.706177 -195.335770,369.179535"
+              class="id_Wyman_Manderly id_Renly_Baratheon"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C -26.168320,-91.967453 -50.571426,36.113312 -101.399384,70.672531"
+              class="id_Wyman_Manderly id_Ilyn_Payne"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -60.727539,-142.795410 C 61.090607,-207.184952 340.402100,-121.042046 404.791656,0.776103"
+              class="id_Wyman_Manderly id_Barth" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -60.727539,-142.795410 C 9.418430,-96.298676 44.892284,78.665375 -1.604447,148.811340"
+              class="id_Wyman_Manderly id_Meryn_Trant"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C 89.318298,-78.319519 217.673203,243.463043 153.197311,393.508881"
+              class="id_Wyman_Manderly id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -60.727539,-142.795410 C -89.620346,-69.457932 -242.965805,-2.790924 -316.303284,-31.683737"
+              class="id_Wyman_Manderly id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 601.776733,-35.577076 C 523.305542,204.796753 45.038055,447.650696 -195.335770,369.179535"
+              class="id_Cellador id_Renly_Baratheon" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 601.776733,-35.577076 C 464.641541,9.347595 191.551727,-128.968201 146.627045,-266.103394"
+              class="id_Cellador id_Samwell_Tarly" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="5.6704006"
+              d="M 601.776733,-35.577076 C 535.340576,-53.669830 462.825409,-180.463226 480.918152,-246.899414"
+              class="id_Cellador id_Bowen_Marsh" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 601.776733,-35.577076 C 467.631470,24.622757 176.113739,-86.295425 115.913910,-220.440720"
+              class="id_Cellador id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 601.776733,-35.577076 C 501.361847,-44.752953 364.503296,-209.139130 373.679169,-309.554047"
+              class="id_Cellador id_Cotter_Pyke" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 601.776733,-35.577076 C 522.276855,-82.244392 473.027985,-271.495209 519.695313,-350.995087"
+              class="id_Cellador id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 601.776733,-35.577076 C 417.184235,83.955154 -39.002785,-13.635208 -158.535019,-198.227707"
+              class="id_Cellador id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 601.776733,-35.577076 C 443.800812,12.790932 134.284943,-151.620941 85.916946,-309.596863"
+              class="id_Cellador id_Denys_Mallister" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 601.776733,-35.577076 C 503.930389,60.795223 212.602448,58.584156 116.230141,-39.262188"
+              class="id_Cellador id_Davos_Seaworth" stroke-opacity="0.29803923"
+              stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 601.776733,-35.577076 C 597.878052,139.956009 328.730408,397.407562 153.197311,393.508881"
+              class="id_Cellador id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 601.776733,-35.577076 C 484.735535,225.167130 -81.942627,440.721619 -342.686829,323.680420"
+              class="id_Cellador id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 601.776733,-35.577076 C 550.966736,142.661682 207.393585,333.804779 29.154821,282.994781"
+              class="id_Cellador id_Loras_Tyrell" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 601.776733,-35.577076 C 482.391388,126.308083 60.485779,190.057846 -101.399384,70.672531"
+              class="id_Cellador id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 601.776733,-35.577076 C 623.776306,55.781132 519.738464,225.817902 428.380280,247.817520"
+              class="id_Cellador id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 601.776733,-35.577076 C 517.978149,121.976852 155.949478,232.609894 -1.604447,148.811340"
+              class="id_Cellador id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 601.776733,-35.577076 C 592.120728,68.368851 421.717896,209.803772 317.771942,200.147797"
+              class="id_Cellador id_Boros_Blount" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 601.776733,-35.577076 C 452.942078,-12.101082 194.476196,-200.139038 171.000198,-348.973663"
+              class="id_Cellador id_Bael_the_Bard" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 601.776733,-35.577076 C 543.238403,-32.641228 451.027130,-116.044937 448.091278,-174.583267"
+              class="id_Cellador id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 601.776733,-35.577076 C 569.650330,11.090578 451.459290,32.902485 404.791656,0.776103"
+              class="id_Cellador id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 601.776733,-35.577076 C 367.037750,137.408920 -244.549713,44.779434 -417.535706,-189.959579"
+              class="id_Cellador id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -195.335770,369.179535 C -126.520569,232.751648 181.344040,131.332611 317.771942,200.147797"
+              class="id_Renly_Baratheon id_Boros_Blount"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="3.9129522"
+              d="M -195.335770,369.179535 C -167.674606,307.044495 -32.980247,255.333603 29.154821,282.994781"
+              class="id_Renly_Baratheon id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -195.335770,369.179535 C -175.402908,131.741547 210.653290,-194.516129 448.091278,-174.583267"
+              class="id_Renly_Baratheon id_Janos_Slynt"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -195.335770,369.179535 C -120.763283,304.338806 88.356560,318.936401 153.197311,393.508881"
+              class="id_Renly_Baratheon id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -195.335770,369.179535 C -233.905807,389.549927 -322.316437,362.250458 -342.686829,323.680420"
+              class="id_Renly_Baratheon id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -195.335770,369.179535 C -356.354858,288.158722 -476.352295,-74.901093 -395.331482,-235.920181"
+              class="id_Renly_Baratheon id_Jon_Umber"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -195.335770,369.179535 C -236.249893,290.690857 -179.888062,111.586655 -101.399384,70.672531"
+              class="id_Renly_Baratheon id_Ilyn_Payne"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -195.335770,369.179535 C -264.729645,280.744781 -236.168335,44.001869 -147.733566,-25.392008"
+              class="id_Renly_Baratheon id_Lysa_Arryn"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -195.335770,369.179535 C -293.753326,290.921082 -323.991943,25.907051 -245.733490,-72.510498"
+              class="id_Renly_Baratheon id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -195.335770,369.179535 C -214.710938,225.177994 -27.771397,-19.887032 116.230141,-39.262188"
+              class="id_Renly_Baratheon id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -195.335770,369.179535 C -94.864960,220.163925 279.364685,147.346725 428.380280,247.817520"
+              class="id_Renly_Baratheon id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -195.335770,369.179535 C -186.272720,178.298050 113.644135,-94.429634 304.525635,-85.366585"
+              class="id_Renly_Baratheon id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -195.335770,369.179535 C -200.663147,286.359619 -84.424347,154.138718 -1.604447,148.811340"
+              class="id_Renly_Baratheon id_Meryn_Trant"
+              stroke-opacity="0.29803923" stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -195.335770,369.179535 C -299.449707,347.313538 -422.821594,158.343735 -400.955627,54.229820"
+              class="id_Renly_Baratheon id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="7.292661"
+              d="M 317.771942,200.147797 C 243.629379,253.755798 52.003544,222.953918 -1.604447,148.811340"
+              class="id_Boros_Blount id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 317.771942,200.147797 C 208.042618,258.087036 -43.460167,180.401855 -101.399384,70.672531"
+              class="id_Boros_Blount id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 317.771942,200.147797 C 268.889587,99.137711 347.081177,-125.700912 448.091278,-174.583267"
+              class="id_Boros_Blount id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="5.805589"
+              d="M 317.771942,200.147797 C 276.617920,274.440613 103.447647,324.148804 29.154821,282.994781"
+              class="id_Boros_Blount id_Loras_Tyrell"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 317.771942,200.147797 C 150.539200,258.317230 -187.564072,94.722244 -245.733490,-72.510498"
+              class="id_Boros_Blount id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 317.771942,200.147797 C 118.732155,171.399384 -136.704895,-170.282867 -107.956490,-369.322662"
+              class="id_Boros_Blount id_Rickon_Stark"
+              stroke-opacity="0.29803923" stroke="#a56721"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 317.771942,200.147797 C 133.038712,367.191101 -394.626129,340.656219 -561.669434,155.922989"
+              class="id_Boros_Blount id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 317.771942,200.147797 C 258.019806,145.694183 250.072021,-25.614449 304.525635,-85.366585"
+              class="id_Boros_Blount id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 317.771942,200.147797 C 229.581558,192.574158 108.656509,48.928177 116.230141,-39.262188"
+              class="id_Boros_Blount id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="5.062053"
+              d="M 317.771942,200.147797 C 343.164063,229.583862 337.098145,311.826172 307.662079,337.218292"
+              class="id_Boros_Blount id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 317.771942,200.147797 C 349.427551,187.560074 415.792542,216.161896 428.380280,247.817520"
+              class="id_Boros_Blount id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 317.771942,200.147797 C 142.835464,215.734100 -142.948730,-23.291222 -158.535019,-198.227707"
+              class="id_Boros_Blount id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 317.771942,200.147797 C 323.529236,271.734924 224.784454,387.751587 153.197311,393.508881"
+              class="id_Boros_Blount id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 317.771942,200.147797 C 295.301544,142.869522 347.513397,23.246496 404.791656,0.776103"
+              class="id_Boros_Blount id_Barth" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -107.956490,-369.322662 C -36.395927,-399.595520 116.354195,-337.663971 146.627045,-266.103394"
+              class="id_Rickon_Stark id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -107.956490,-369.322662 C 0.324368,-453.696045 289.305786,-417.834900 373.679169,-309.554047"
+              class="id_Rickon_Stark id_Cotter_Pyke" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -107.956490,-369.322662 C -138.750992,-285.167145 -311.175964,-205.125671 -395.331482,-235.920181"
+              class="id_Rickon_Stark id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -107.956490,-369.322662 C 16.940727,-286.966278 80.751953,23.914124 -1.604447,148.811340"
+              class="id_Rickon_Stark id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -107.956490,-369.322662 C -83.853210,-324.987976 -114.200317,-222.330994 -158.535019,-198.227707"
+              class="id_Rickon_Stark id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#ff6e44"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -107.956490,-369.322662 C -33.406021,-384.320343 100.916222,-294.991180 115.913910,-220.440720"
+              class="id_Rickon_Stark id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -107.956490,-369.322662 C -76.149445,-282.404846 -158.815643,-104.317535 -245.733490,-72.510498"
+              class="id_Rickon_Stark id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -107.956490,-369.322662 C -82.098068,-260.125488 -207.106125,-57.542168 -316.303284,-31.683737"
+              class="id_Rickon_Stark id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -107.956490,-369.322662 C 122.738907,-353.161987 444.540955,17.122124 428.380280,247.817520"
+              class="id_Rickon_Stark id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#7fa682"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -107.956490,-369.322662 C -48.095348,-421.044220 119.278664,-408.834808 171.000198,-348.973663"
+              class="id_Rickon_Stark id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -107.956490,-369.322662 C -18.646027,-282.635040 -14.711769,-18.637928 -101.399384,70.672531"
+              class="id_Rickon_Stark id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -107.956490,-369.322662 C -81.845825,-226.012360 -257.645325,28.119156 -400.955627,54.229820"
+              class="id_Rickon_Stark id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -107.956490,-369.322662 C 31.331150,-395.027863 278.820435,-224.654236 304.525635,-85.366585"
+              class="id_Rickon_Stark id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -107.956490,-369.322662 C -71.197403,-251.483368 -192.817688,-19.585796 -310.656982,17.173292"
+              class="id_Rickon_Stark id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#a56721"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 29.154821,282.994781 C 21.426506,107.691879 272.788391,-166.854950 448.091278,-174.583267"
+              class="id_Loras_Tyrell id_Janos_Slynt" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 29.154821,282.994781 C -91.971832,297.792847 -295.858917,138.299957 -310.656982,17.173292"
+              class="id_Loras_Tyrell id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="4.115735"
+              d="M 29.154821,282.994781 C -37.076382,365.500244 -260.181366,389.911621 -342.686829,323.680420"
+              class="id_Loras_Tyrell id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="4.183329"
+              d="M 29.154821,282.994781 C 76.066139,280.289093 150.491623,346.597565 153.197311,393.508881"
+              class="id_Loras_Tyrell id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.9129522"
+              d="M 29.154821,282.994781 C -39.420471,266.641174 -117.752991,139.247818 -101.399384,70.672531"
+              class="id_Loras_Tyrell id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.7240825"
+              d="M 29.154821,282.994781 C -3.833721,262.309937 -22.289282,181.799881 -1.604447,148.811340"
+              class="id_Loras_Tyrell id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 29.154821,282.994781 C -96.923904,266.871399 -261.856873,53.568226 -245.733490,-72.510498"
+              class="id_Loras_Tyrell id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M 29.154821,282.994781 C -114.424393,375.745270 -468.918945,299.502197 -561.669434,155.922989"
+              class="id_Loras_Tyrell id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 29.154821,282.994781 C 10.556717,154.248352 175.779205,-66.768478 304.525635,-85.366585"
+              class="id_Loras_Tyrell id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="5.33243"
+              d="M 29.154821,282.994781 C 95.700981,238.138031 262.805328,270.672150 307.662079,337.218292"
+              class="id_Loras_Tyrell id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 29.154821,282.994781 C -17.881508,201.128326 34.363686,7.774141 116.230141,-39.262188"
+              class="id_Loras_Tyrell id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 29.154821,282.994781 C -102.620270,323.263885 -360.686523,186.004913 -400.955627,54.229820"
+              class="id_Loras_Tyrell id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 29.154821,282.994781 C 101.964462,196.114227 341.499725,175.007874 428.380280,247.817520"
+              class="id_Loras_Tyrell id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 29.154821,282.994781 C 47.838451,151.423676 273.220581,-17.907524 404.791656,0.776103"
+              class="id_Loras_Tyrell id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 29.154821,282.994781 C -67.900215,256.695099 -174.033249,71.663025 -147.733566,-25.392008"
+              class="id_Loras_Tyrell id_Lysa_Arryn" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 312.240387,93.470116 -293.616028,291.773865 -561.669434,155.922989"
+              class="id_Janos_Slynt id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 324.044525,40.988724 -185.383636,178.276581 -400.955627,54.229820"
+              class="id_Janos_Slynt id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 448.091278,-174.583267 C 387.244293,-15.633972 57.549908,131.519501 -101.399384,70.672531"
+              class="id_Janos_Slynt id_Ilyn_Payne" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="3.6425755"
+              d="M 448.091278,-174.583267 C 422.831055,-19.965195 153.013626,174.071564 -1.604447,148.811340"
+              class="id_Janos_Slynt id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 448.091278,-174.583267 C 329.740875,-15.403763 -86.553986,45.839905 -245.733490,-72.510498"
+              class="id_Janos_Slynt id_Edmure_Tully" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="8.5093565"
+              d="M 448.091278,-174.583267 C 372.484314,-117.319283 173.177902,-144.833740 115.913910,-220.440720"
+              class="id_Janos_Slynt id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M 448.091278,-174.583267 C 427.129700,-224.186432 470.092163,-330.033508 519.695313,-350.995087"
+              class="id_Janos_Slynt id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="9.9964285"
+              d="M 448.091278,-174.583267 C 440.193420,-195.611862 459.889557,-239.001556 480.918152,-246.899414"
+              class="id_Janos_Slynt id_Bowen_Marsh" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 448.091278,-174.583267 C 271.890625,-4.533142 -247.485580,-13.758942 -417.535706,-189.959579"
+              class="id_Janos_Slynt id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="10.7399645"
+              d="M 448.091278,-174.583267 C 406.214722,-186.695007 361.567444,-267.677460 373.679169,-309.554047"
+              class="id_Janos_Slynt id_Cotter_Pyke" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="18.175325"
+              d="M 448.091278,-174.583267 C 369.494415,-132.594452 188.615860,-187.506516 146.627045,-266.103394"
+              class="id_Janos_Slynt id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 437.221497,-128.026794 351.082092,-74.496796 304.525635,-85.366585"
+              class="id_Janos_Slynt id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="7.3602557"
+              d="M 448.091278,-174.583267 C 348.653687,-129.151123 131.349091,-210.159271 85.916946,-309.596863"
+              class="id_Janos_Slynt id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 448.091278,-174.583267 C 528.629211,-86.160912 516.802612,167.279572 428.380280,247.817520"
+              class="id_Janos_Slynt id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 389.588409,83.225075 -84.878487,382.183289 -342.686829,323.680420"
+              class="id_Janos_Slynt id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="4.183329"
+              d="M 448.091278,-174.583267 C 357.794983,-154.043137 191.540329,-258.677368 171.000198,-348.973663"
+              class="id_Janos_Slynt id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 358.764587,-25.580048 1.269648,63.934704 -147.733566,-25.392008"
+              class="id_Janos_Slynt id_Lysa_Arryn" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 448.091278,-174.583267 C 474.503235,-130.851456 448.523438,-25.635847 404.791656,0.776103"
+              class="id_Janos_Slynt id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 448.091278,-174.583267 C 522.365723,-44.137115 438.108246,262.943817 307.662079,337.218292"
+              class="id_Janos_Slynt id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 373.679169,-309.554047 C 302.157410,-107.341354 -108.444283,88.695061 -310.656982,17.173292"
+              class="id_Cotter_Pyke id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 373.679169,-309.554047 C 390.295532,-142.824249 165.125366,132.194977 -1.604447,148.811340"
+              class="id_Cotter_Pyke id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="8.57695"
+              d="M 373.679169,-309.554047 C 316.118164,-252.010178 143.460831,-252.035843 85.916946,-309.596863"
+              class="id_Cotter_Pyke id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="24.934744"
+              d="M 373.679169,-309.554047 C 336.958862,-255.453491 200.727600,-229.383087 146.627045,-266.103394"
+              class="id_Cotter_Pyke id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="8.441763"
+              d="M 373.679169,-309.554047 C 407.657867,-318.470917 472.001282,-280.878113 480.918152,-246.899414"
+              class="id_Cotter_Pyke id_Bowen_Marsh" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="4.994459"
+              d="M 373.679169,-309.554047 C 339.948792,-240.178329 185.289627,-186.710327 115.913910,-220.440720"
+              class="id_Cotter_Pyke id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 373.679169,-309.554047 C 394.594177,-347.045471 482.203888,-371.910095 519.695313,-350.995087"
+              class="id_Cotter_Pyke id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 373.679169,-309.554047 C 239.355103,-127.392197 -235.373840,-55.635513 -417.535706,-189.959579"
+              class="id_Cotter_Pyke id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.7101696"
+              d="M 373.679169,-309.554047 C 404.685944,-250.885849 363.193848,-116.373367 304.525635,-85.366585"
+              class="id_Cotter_Pyke id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M 373.679169,-309.554047 C 376.247742,-204.005859 221.778320,-41.830757 116.230141,-39.262188"
+              class="id_Cotter_Pyke id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 373.679169,-309.554047 C 325.259460,-276.902161 203.652069,-300.553955 171.000198,-348.973663"
+              class="id_Cotter_Pyke id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 373.679169,-309.554047 C 441.967712,-253.710526 460.635193,-67.512421 404.791656,0.776103"
+              class="id_Cotter_Pyke id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="15.133586"
+              d="M 480.918152,-246.899414 C 410.219147,-183.881989 209.644470,-195.404388 146.627045,-266.103394"
+              class="id_Bowen_Marsh id_Samwell_Tarly"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 480.918152,-246.899414 C 375.417664,-35.769836 -99.527405,122.673782 -310.656982,17.173292"
+              class="id_Bowen_Marsh id_Yohn_Royce" stroke-opacity="0.29803923"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="5.940778"
+              d="M 480.918152,-246.899414 C 413.209045,-168.606827 194.206497,-152.731598 115.913910,-220.440720"
+              class="id_Bowen_Marsh id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="3.7777638"
+              d="M 480.918152,-246.899414 C 467.854462,-275.473969 491.120758,-337.931396 519.695313,-350.995087"
+              class="id_Bowen_Marsh id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 480.918152,-246.899414 C 362.761871,-109.274429 -20.910038,-80.071411 -158.535019,-198.227707"
+              class="id_Bowen_Marsh id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="6.2787485"
+              d="M 480.918152,-246.899414 C 389.378418,-180.438660 152.377701,-218.057129 85.916946,-309.596863"
+              class="id_Bowen_Marsh id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 480.918152,-246.899414 C 312.615326,-55.820663 -226.456955,-21.656769 -417.535706,-189.959579"
+              class="id_Bowen_Marsh id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 480.918152,-246.899414 C 477.946228,-179.314346 372.110718,-82.394653 304.525635,-85.366585"
+              class="id_Bowen_Marsh id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M 480.918152,-246.899414 C 398.519684,-205.330673 212.568939,-266.575195 171.000198,-348.973663"
+              class="id_Bowen_Marsh id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 480.918152,-246.899414 C 515.227966,-182.139023 469.552063,-33.533699 404.791656,0.776103"
+              class="id_Bowen_Marsh id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 480.918152,-246.899414 C 543.455688,-53.273582 346.823151,330.971375 153.197311,393.508881"
+              class="id_Bowen_Marsh id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="4.588894"
+              d="M -101.399384,70.672531 C -65.812637,66.341309 -5.935673,113.224594 -1.604447,148.811340"
+              class="id_Ilyn_Payne id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -101.399384,70.672531 C -99.055298,169.531601 -243.827774,321.336304 -342.686829,323.680420"
+              class="id_Ilyn_Payne id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -101.399384,70.672531 C -51.422203,-41.720299 192.132813,-135.343765 304.525635,-85.366585"
+              class="id_Ilyn_Payne id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -101.399384,70.672531 C -79.860428,5.159683 50.717293,-60.801147 116.230141,-39.262188"
+              class="id_Ilyn_Payne id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -101.399384,70.672531 C 14.087234,84.320465 166.845245,278.022247 153.197311,393.508881"
+              class="id_Ilyn_Payne id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -101.399384,70.672531 C 39.985558,0.145592 357.853333,106.432579 428.380280,247.817520"
+              class="id_Ilyn_Payne id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -101.399384,70.672531 C -164.599182,127.295235 -344.332916,117.429611 -400.955627,54.229820"
+              class="id_Ilyn_Payne id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -101.399384,70.672531 C 33.722065,42.169395 279.158936,202.096863 307.662079,337.218292"
+              class="id_Ilyn_Payne id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -101.399384,70.672531 C -176.403305,179.776642 -452.565338,230.926910 -561.669434,155.922989"
+              class="id_Ilyn_Payne id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -101.399384,70.672531 C -14.140458,-44.544968 289.574158,-86.482819 404.791656,0.776103"
+              class="id_Ilyn_Payne id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="6.2787485"
+              d="M -101.399384,70.672531 C -164.851410,93.182053 -293.793762,31.768301 -316.303284,-31.683737"
+              class="id_Ilyn_Payne id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -101.399384,70.672531 C -158.902817,70.902740 -245.503281,-15.007069 -245.733490,-72.510498"
+              class="id_Ilyn_Payne id_Edmure_Tully" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="9.050111"
+              d="M 146.627045,-266.103394 C 204.262360,-357.695374 428.103333,-408.630402 519.695313,-350.995087"
+              class="id_Samwell_Tarly id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="15.944716"
+              d="M 146.627045,-266.103394 C 149.616959,-250.828232 131.189072,-223.430634 115.913910,-220.440720"
+              class="id_Samwell_Tarly id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 146.627045,-266.103394 C 99.169769,-191.495850 -83.927475,-150.770432 -158.535019,-198.227707"
+              class="id_Samwell_Tarly id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#b98a42"/>
+        <path fill="none" stroke-width="15.268775"
+              d="M 146.627045,-266.103394 C 125.786339,-262.660065 89.360275,-288.756134 85.916946,-309.596863"
+              class="id_Samwell_Tarly id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="3.3721988"
+              d="M 146.627045,-266.103394 C 49.023258,-138.042084 -289.474396,-92.355789 -417.535706,-189.959579"
+              class="id_Samwell_Tarly id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="14.052079"
+              d="M 146.627045,-266.103394 C 214.354126,-261.535736 309.093292,-153.093658 304.525635,-85.366585"
+              class="id_Samwell_Tarly id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="8.374168"
+              d="M 146.627045,-266.103394 C 134.927628,-287.552094 149.551514,-337.274231 171.000198,-348.973663"
+              class="id_Samwell_Tarly id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="3.845358"
+              d="M 146.627045,-266.103394 C 251.635864,-264.360413 406.534607,-104.232719 404.791656,0.776103"
+              class="id_Samwell_Tarly id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="3.2370105"
+              d="M 146.627045,-266.103394 C 44.271988,-151.675049 -280.903137,-133.565125 -395.331482,-235.920181"
+              class="id_Samwell_Tarly id_Jon_Umber" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -310.656982,17.173292 C -222.518875,-18.309605 -37.087341,60.673229 -1.604447,148.811340"
+              class="id_Yohn_Royce id_Meryn_Trant" stroke-opacity="0.29803923"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -310.656982,17.173292 C -255.761536,84.880692 -274.979431,268.784973 -342.686829,323.680420"
+              class="id_Yohn_Royce id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -310.656982,17.173292 C -142.619003,-0.330444 135.693573,225.470901 153.197311,393.508881"
+              class="id_Yohn_Royce id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -310.656982,17.173292 C -323.312805,-56.331299 -232.039612,-185.571899 -158.535019,-198.227707"
+              class="id_Yohn_Royce id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -310.656982,17.173292 C -116.720688,-84.505310 326.701660,53.881226 428.380280,247.817520"
+              class="id_Yohn_Royce id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M -310.656982,17.173292 C -286.585358,-23.924450 -188.831314,-49.463631 -147.733566,-25.392008"
+              class="id_Yohn_Royce id_Lysa_Arryn" stroke-opacity="0.29803923"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -310.656982,17.173292 C -333.109528,95.125725 -483.717010,178.375549 -561.669434,155.922989"
+              class="id_Yohn_Royce id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -310.656982,17.173292 C -296.696228,-127.495514 -58.751862,-323.557617 85.916946,-309.596863"
+              class="id_Yohn_Royce id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -310.656982,17.173292 C -122.984161,-42.481529 248.007263,149.545471 307.662079,337.218292"
+              class="id_Yohn_Royce id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -1.604447,148.811340 C 12.785988,40.749733 196.464035,-99.757019 304.525635,-85.366585"
+              class="id_Meryn_Trant id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -1.604447,148.811340 C -112.195114,262.246674 -448.234100,266.513672 -561.669434,155.922989"
+              class="id_Meryn_Trant id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -1.604447,148.811340 C -15.652237,87.629715 55.048515,-25.214397 116.230141,-39.262188"
+              class="id_Meryn_Trant id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -1.604447,148.811340 C -66.640518,14.733414 36.922279,-283.937592 171.000198,-348.973663"
+              class="id_Meryn_Trant id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.5749812"
+              d="M -1.604447,148.811340 C 97.930252,124.639435 283.490173,237.683594 307.662079,337.218292"
+              class="id_Meryn_Trant id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -1.604447,148.811340 C -34.847107,252.001633 -239.496521,356.923096 -342.686829,323.680420"
+              class="id_Meryn_Trant id_Beric_Dondarrion"
+              stroke-opacity="0.29803923" stroke="#268169"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -1.604447,148.811340 C 104.193748,82.615623 362.184570,142.019318 428.380280,247.817520"
+              class="id_Meryn_Trant id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -1.604447,148.811340 C -102.398376,110.789642 -196.556717,-97.433769 -158.535019,-198.227707"
+              class="id_Meryn_Trant id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#a54d61"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -1.604447,148.811340 C 50.067734,37.925064 293.905365,-50.896076 404.791656,0.776103"
+              class="id_Meryn_Trant id_Barth" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -1.604447,148.811340 C 78.295418,166.790497 171.176468,313.609009 153.197311,393.508881"
+              class="id_Meryn_Trant id_Moon_Boy" stroke-opacity="0.29803923"
+              stroke="#95679e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -342.686829,323.680420 C -465.135864,222.289230 -496.722656,-113.471130 -395.331482,-235.920181"
+              class="id_Beric_Dondarrion id_Jon_Umber"
+              stroke-opacity="0.29803923" stroke="#7fa24c"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -342.686829,323.680420 C -359.790894,123.136040 -84.630470,-203.336639 115.913910,-220.440720"
+              class="id_Beric_Dondarrion id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -342.686829,323.680420 C -305.145508,16.268875 212.283768,-388.536438 519.695313,-350.995087"
+              class="id_Beric_Dondarrion id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -342.686829,323.680420 C -229.544296,238.469284 67.986168,280.366333 153.197311,393.508881"
+              class="id_Beric_Dondarrion id_Moon_Boy"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -342.686829,323.680420 C -383.621521,111.304207 -126.459259,-268.662170 85.916946,-309.596863"
+              class="id_Beric_Dondarrion id_Denys_Mallister"
+              stroke-opacity="0.29803923" stroke="#39be4a"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -342.686829,323.680420 C -408.230682,281.444061 -443.191986,119.773697 -400.955627,54.229820"
+              class="id_Beric_Dondarrion id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -342.686829,323.680420 C -420.034821,333.925476 -551.424438,233.271011 -561.669434,155.922989"
+              class="id_Beric_Dondarrion id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -342.686829,323.680420 C -402.534363,225.051559 -344.362335,-12.662983 -245.733490,-72.510498"
+              class="id_Beric_Dondarrion id_Edmure_Tully"
+              stroke-opacity="0.29803923" stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -342.686829,323.680420 C -257.772003,109.603851 190.715088,-84.138733 404.791656,0.776103"
+              class="id_Beric_Dondarrion id_Barth" stroke-opacity="0.29803923"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="4.994459"
+              d="M 153.197311,393.508881 C 172.832153,351.357819 265.511017,317.583466 307.662079,337.218292"
+              class="id_Moon_Boy id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 153.197311,393.508881 C 179.095642,309.334015 344.205414,221.919189 428.380280,247.817520"
+              class="id_Moon_Boy id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 153.197311,393.508881 C 59.249672,314.348114 37.069366,54.685452 116.230141,-39.262188"
+              class="id_Moon_Boy id_Davos_Seaworth" stroke-opacity="0.29803923"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 153.197311,393.508881 C 124.969620,264.643463 275.926208,29.003788 404.791656,0.776103"
+              class="id_Moon_Boy id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 153.197311,393.508881 C 77.596115,171.308472 297.494934,-275.393890 519.695313,-350.995087"
+              class="id_Moon_Boy id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 153.197311,393.508881 C -25.489090,436.483673 -357.980835,232.916229 -400.955627,54.229820"
+              class="id_Moon_Boy id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 153.197311,393.508881 C -0.879898,266.343811 -41.248123,-155.519653 85.916946,-309.596863"
+              class="id_Moon_Boy id_Denys_Mallister" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 153.197311,393.508881 C -19.792717,380.091156 -259.151184,100.479530 -245.733490,-72.510498"
+              class="id_Moon_Boy id_Edmure_Tully" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 153.197311,393.508881 C -37.293228,488.965057 -466.213257,346.413513 -561.669434,155.922989"
+              class="id_Moon_Boy id_Kevan_Lannister" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 153.197311,393.508881 C -25.741341,402.370453 -307.441711,147.254913 -316.303284,-31.683737"
+              class="id_Moon_Boy id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.588894"
+              d="M -395.331482,-235.920181 C -332.729950,-233.157852 -242.971130,-135.112030 -245.733490,-72.510498"
+              class="id_Jon_Umber id_Edmure_Tully" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -395.331482,-235.920181 C -350.230408,-124.283951 -450.033203,110.821945 -561.669434,155.922989"
+              class="id_Jon_Umber id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="7.901009"
+              d="M -395.331482,-235.920181 C -390.580231,-222.287216 -403.902740,-194.710861 -417.535706,-189.959579"
+              class="id_Jon_Umber id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#ff8805"/>
+        <path fill="none" stroke-width="3.6425755"
+              d="M -395.331482,-235.920181 C -340.433716,-275.740967 -198.355820,-253.125488 -158.535019,-198.227707"
+              class="id_Jon_Umber id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#ff6e44"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -395.331482,-235.920181 C -289.986511,-335.073364 16.760725,-325.785675 115.913910,-220.440720"
+              class="id_Jon_Umber id_Mance_Rayder" stroke-opacity="0.29803923"
+              stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -395.331482,-235.920181 C -133.841568,-303.915009 360.385437,-13.672394 428.380280,247.817520"
+              class="id_Jon_Umber id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#7fa682"/>
+        <path fill="none" stroke-width="3.5073872"
+              d="M -395.331482,-235.920181 C -338.678558,-210.878525 -291.261627,-88.336670 -316.303284,-31.683737"
+              class="id_Jon_Umber id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -245.733490,-72.510498 C -263.233978,36.363396 -452.795532,173.423492 -561.669434,155.922989"
+              class="id_Edmure_Tully id_Kevan_Lannister"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="3.845358"
+              d="M -245.733490,-72.510498 C -303.583740,-61.639866 -406.665070,-132.109314 -417.535706,-189.959579"
+              class="id_Edmure_Tully id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="4.7916765"
+              d="M -245.733490,-72.510498 C -251.682083,-50.231186 -294.023987,-25.735130 -316.303284,-31.683737"
+              class="id_Edmure_Tully id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -245.733490,-72.510498 C -251.429855,-16.118004 -344.563141,59.926186 -400.955627,54.229820"
+              class="id_Edmure_Tully id_Vargo_Hoat" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -245.733490,-72.510498 C -253.437225,-115.093628 -201.118164,-190.523956 -158.535019,-198.227707"
+              class="id_Edmure_Tully id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -245.733490,-72.510498 C -53.108620,-101.243851 278.928741,144.593414 307.662079,337.218292"
+              class="id_Edmure_Tully id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M -561.669434,155.922989 C -549.865295,103.441589 -453.437012,42.425690 -400.955627,54.229820"
+              class="id_Kevan_Lannister id_Vargo_Hoat"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -561.669434,155.922989 C -345.280579,-23.708054 248.749237,31.428665 428.380280,247.817520"
+              class="id_Kevan_Lannister id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -561.669434,155.922989 C -446.780090,-161.733582 202.038742,-465.884399 519.695313,-350.995087"
+              class="id_Kevan_Lannister id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M -561.669434,155.922989 C -436.688354,-65.573959 83.028687,-210.347687 304.525635,-85.366585"
+              class="id_Kevan_Lannister id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -561.669434,155.922989 C -351.544037,18.315735 170.054825,127.092911 307.662079,337.218292"
+              class="id_Kevan_Lannister id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -561.669434,155.922989 C -516.114807,-91.590263 -76.513054,-394.528259 171.000198,-348.973663"
+              class="id_Kevan_Lannister id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -561.669434,155.922989 C -399.406616,-68.398590 180.470078,-161.486725 404.791656,0.776103"
+              class="id_Kevan_Lannister id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M -561.669434,155.922989 C -515.145264,36.872818 -266.783722,-71.916183 -147.733566,-25.392008"
+              class="id_Kevan_Lannister id_Lysa_Arryn"
+              stroke-opacity="0.29803923" stroke="#95679e"/>
+        <path fill="none" stroke-width="3.1018221"
+              d="M -561.669434,155.922989 C -550.117554,69.328415 -402.897858,-43.235619 -316.303284,-31.683737"
+              class="id_Kevan_Lannister id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M -400.955627,54.229820 C -367.205139,-140.802032 -24.031654,-382.724121 171.000198,-348.973663"
+              class="id_Vargo_Hoat id_Bael_the_Bard" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M -400.955627,54.229820 C -453.109528,8.707952 -463.057587,-137.805695 -417.535706,-189.959579"
+              class="id_Vargo_Hoat id_Rickard_Karstark"
+              stroke-opacity="0.29803923" stroke="#ef8882"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -400.955627,54.229820 C -202.634399,-30.896027 222.536224,138.897064 307.662079,337.218292"
+              class="id_Vargo_Hoat id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -400.955627,54.229820 C -297.870422,-210.945343 254.520142,-454.080292 519.695313,-350.995087"
+              class="id_Vargo_Hoat id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 85.916946,-309.596863 C 59.300385,-238.432632 -87.370789,-171.611145 -158.535019,-198.227707"
+              class="id_Denys_Mallister id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#b98a42"/>
+        <path fill="none" stroke-width="3.5073872"
+              d="M 85.916946,-309.596863 C 146.046524,-261.592560 164.234436,-99.391769 116.230141,-39.262188"
+              class="id_Denys_Mallister id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 85.916946,-309.596863 C 164.392975,-404.632172 424.660004,-429.471130 519.695313,-350.995087"
+              class="id_Denys_Mallister id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="3.9805462"
+              d="M 85.916946,-309.596863 C 109.747566,-297.765015 127.745750,-244.271332 115.913910,-220.440720"
+              class="id_Denys_Mallister id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M 85.916946,-309.596863 C 95.058235,-334.488892 146.108185,-358.114960 171.000198,-348.973663"
+              class="id_Denys_Mallister id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.8314452"
+              d="M -417.535706,-189.959579 C -316.942017,-302.745728 3.127763,-321.034424 115.913910,-220.440720"
+              class="id_Rickard_Karstark id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M -417.535706,-189.959579 C -367.389191,-243.413345 -211.988785,-248.374222 -158.535019,-198.227707"
+              class="id_Rickard_Karstark id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -417.535706,-189.959579 C -331.631348,-339.469574 21.490198,-434.878021 171.000198,-348.973663"
+              class="id_Rickard_Karstark id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -417.535706,-189.959579 C -262.296600,-409.612885 300.042023,-506.234192 519.695313,-350.995087"
+              class="id_Rickard_Karstark id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#b9a402"/>
+        <path fill="none" stroke-width="3.1694162"
+              d="M -147.733566,-25.392008 C -97.714859,-80.958786 60.663361,-89.280899 116.230141,-39.262188"
+              class="id_Lysa_Arryn id_Davos_Seaworth"
+              stroke-opacity="0.29803923" stroke="#8f7c77"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -147.733566,-25.392008 C 22.131111,-85.972870 367.799408,77.952843 428.380280,247.817520"
+              class="id_Lysa_Arryn id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#26859e"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -147.733566,-25.392008 C -69.276642,-127.838768 202.078873,-163.823517 304.525635,-85.366585"
+              class="id_Lysa_Arryn id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#5f831f"/>
+        <path fill="none" stroke-width="3.0342276"
+              d="M 116.230141,-39.262188 C 144.668350,-86.142166 257.645660,-113.804810 304.525635,-85.366585"
+              class="id_Davos_Seaworth id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 116.230141,-39.262188 C 29.484003,-16.102257 -135.375092,-111.481567 -158.535019,-198.227707"
+              class="id_Davos_Seaworth id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#e9849a"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 116.230141,-39.262188 C 134.576599,-182.301804 376.655670,-369.341553 519.695313,-350.995087"
+              class="id_Davos_Seaworth id_Wallace_Waynwood"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M 116.230141,-39.262188 C 236.076111,-44.276272 423.366211,127.971550 428.380280,247.817520"
+              class="id_Davos_Seaworth id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#69bbd7"/>
+        <path fill="none" stroke-width="2.8990393"
+              d="M 116.230141,-39.262188 C 65.241852,-112.158493 98.103889,-297.985382 171.000198,-348.973663"
+              class="id_Davos_Seaworth id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 116.230141,-39.262188 C 181.950104,-88.966835 355.087006,-64.943863 404.791656,0.776103"
+              class="id_Davos_Seaworth id_Barth" stroke-opacity="0.29803923"
+              stroke="#d99ed7"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 116.230141,-39.262188 C 79.931183,-75.434647 79.741455,-184.141769 115.913910,-220.440720"
+              class="id_Davos_Seaworth id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#a3b958"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 116.230141,-39.262188 C 229.812637,-2.252483 344.671753,223.635788 307.662079,337.218292"
+              class="id_Davos_Seaworth id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="3.5749812"
+              d="M 519.695313,-350.995087 C 465.049896,-244.127930 222.781067,-165.795303 115.913910,-220.440720"
+              class="id_Wallace_Waynwood id_Mance_Rayder"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 519.695313,-350.995087 C 414.602722,-184.795547 7.664530,-93.135117 -158.535019,-198.227707"
+              class="id_Wallace_Waynwood id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#b98a42"/>
+        <path fill="none" stroke-width="2.763851"
+              d="M 519.695313,-350.995087 C 529.787109,-254.835449 400.685272,-95.458344 304.525635,-85.366585"
+              class="id_Wallace_Waynwood id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 519.695313,-350.995087 C 614.931335,-170.945755 487.711426,241.982254 307.662079,337.218292"
+              class="id_Wallace_Waynwood id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="6.9546905"
+              d="M 115.913910,-220.440720 C 65.466728,-161.108337 -99.202629,-147.780518 -158.535019,-198.227707"
+              class="id_Mance_Rayder id_Ramsay_Snow" stroke-opacity="0.29803923"
+              stroke="#b98a42"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 115.913910,-220.440720 C 180.651093,-231.148239 293.818115,-150.103760 304.525635,-85.366585"
+              class="id_Mance_Rayder id_Betharios_of_Braavos"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="4.5213"
+              d="M 115.913910,-220.440720 C 101.224579,-257.164551 134.276352,-334.284363 171.000198,-348.973663"
+              class="id_Mance_Rayder id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 115.913910,-220.440720 C 217.932816,-233.972900 391.259491,-101.242813 404.791656,0.776103"
+              class="id_Mance_Rayder id_Barth" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 304.525635,-85.366585 C 389.669891,-1.476898 391.551758,252.074036 307.662079,337.218292"
+              class="id_Betharios_of_Braavos id_Osmund_Kettleblack"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 304.525635,-85.366585 C 191.096420,49.535774 -181.400925,81.745483 -316.303284,-31.683737"
+              class="id_Betharios_of_Braavos id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 304.525635,-85.366585 C 225.099136,-111.382912 144.983871,-269.547180 171.000198,-348.973663"
+              class="id_Betharios_of_Braavos id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#73c000"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 304.525635,-85.366585 C 341.807373,-88.191254 401.967010,-36.505638 404.791656,0.776103"
+              class="id_Betharios_of_Braavos id_Barth"
+              stroke-opacity="0.29803923" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 307.662079,337.218292 C 107.333450,323.368530 -172.384796,2.100922 -158.535019,-198.227707"
+              class="id_Osmund_Kettleblack id_Ramsay_Snow"
+              stroke-opacity="0.29803923" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="2.6962569"
+              d="M 307.662079,337.218292 C 313.925568,295.194489 386.356476,241.554016 428.380280,247.817520"
+              class="id_Osmund_Kettleblack id_Aegon_IV_Targaryen"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.9666336"
+              d="M 307.662079,337.218292 C 259.799530,250.503922 318.077301,48.638626 404.791656,0.776103"
+              class="id_Osmund_Kettleblack id_Barth" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 307.662079,337.218292 C 109.088608,388.230927 -265.290649,166.889740 -316.303284,-31.683737"
+              class="id_Osmund_Kettleblack id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 428.380280,247.817520 C 223.543289,340.854004 -223.266815,173.153244 -316.303284,-31.683737"
+              class="id_Aegon_IV_Targaryen id_Ryman_Frey"
+              stroke-opacity="0.29803923" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="2.6286626"
+              d="M 428.380280,247.817520 C 257.546021,179.935287 103.117966,-178.139404 171.000198,-348.973663"
+              class="id_Aegon_IV_Targaryen id_Bael_the_Bard"
+              stroke-opacity="0.29803923" stroke="#39c27f"/>
+        <path fill="none" stroke-width="2.5610685"
+              d="M 404.791656,0.776103 C 288.083405,-22.415558 147.808533,-232.265411 171.000198,-348.973663"
+              class="id_Barth id_Bael_the_Bard" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M 404.791656,0.776103 C 254.080688,138.503128 -178.576263,119.027222 -316.303284,-31.683737"
+              class="id_Barth id_Ryman_Frey" stroke-opacity="0.29803923"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.4934742"
+              d="M -316.303284,-31.683737 C -282.300568,-192.602417 10.081520,-382.976379 171.000198,-348.973663"
+              class="id_Ryman_Frey id_Bael_the_Bard" stroke-opacity="0.29803923"
+              stroke="#a9a47f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff8805" r="50.0" cx="-374.65646"
+                class="id_Brandon_Stark" cy="-316.04843" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="34.0" cx="162.64198"
+                class="id_Benjen_Stark" cy="-416.9405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="22.0" cx="192.0791"
+                class="id_Rhaegar_Targaryen" cy="42.835133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="30.0" cx="-79.93199"
+                class="id_Luwin" cy="-263.15955" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="38.0" cx="-535.52136"
+                class="id_Hoster_Tully" cy="-127.24773" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="26.0" cx="-90.63718"
+                class="id_Arthur_Dayne" cy="3.8094378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="44.0" cx="-284.6555"
+                class="id_Cersei_Lannister" cy="223.07596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="40.0" cx="444.5842"
+                class="id_Baelor_I_Targaryen" cy="97.84304" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.0" cx="-393.81757"
+                class="id_Aerys_II_Targaryen" cy="123.68917" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="42.0" cx="-60.72754"
+                class="id_Wyman_Manderly" cy="-142.79541" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="38.0" cx="601.77673"
+                class="id_Cellador" cy="-35.577076" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="32.0" cx="-195.33577"
+                class="id_Renly_Baratheon" cy="369.17953" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="36.0" cx="317.77194"
+                class="id_Boros_Blount" cy="200.1478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="30.0" cx="-107.95649"
+                class="id_Rickon_Stark" cy="-369.32266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="38.0" cx="29.154821"
+                class="id_Loras_Tyrell" cy="282.99478" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="44.0" cx="448.09128"
+                class="id_Janos_Slynt" cy="-174.58327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="26.0" cx="373.67917"
+                class="id_Cotter_Pyke" cy="-309.55405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="20.0" cx="480.91815"
+                class="id_Bowen_Marsh" cy="-246.89941" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="34.0" cx="-101.39938"
+                class="id_Ilyn_Payne" cy="70.67253" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="26.0" cx="146.62704"
+                class="id_Samwell_Tarly" cy="-266.1034" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="18.0" cx="-310.65698"
+                class="id_Yohn_Royce" cy="17.173292" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="34.0" cx="-1.6044466"
+                class="id_Meryn_Trant" cy="148.81134" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="30.0" cx="-342.68683"
+                class="id_Beric_Dondarrion" cy="323.68042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="36.0" cx="153.19731"
+                class="id_Moon_Boy" cy="393.50888" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="24.0" cx="-395.33148"
+                class="id_Jon_Umber" cy="-235.92018" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="30.0" cx="-245.73349"
+                class="id_Edmure_Tully" cy="-72.5105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="34.0" cx="-561.66943"
+                class="id_Kevan_Lannister" cy="155.92299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="24.0" cx="-400.95563"
+                class="id_Vargo_Hoat" cy="54.22982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="22.0" cx="85.91695"
+                class="id_Denys_Mallister" cy="-309.59686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="18.0" cx="-417.5357"
+                class="id_Rickard_Karstark" cy="-189.95958" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="-147.73357"
+                class="id_Lysa_Arryn" cy="-25.392008" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="34.0" cx="116.23014"
+                class="id_Davos_Seaworth" cy="-39.262188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.0" cx="519.6953"
+                class="id_Wallace_Waynwood" cy="-350.9951" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="24.0" cx="115.91391"
+                class="id_Mance_Rayder" cy="-220.44072" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="36.0" cx="304.52563"
+                class="id_Betharios_of_Braavos" cy="-85.366585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="36.0" cx="307.66208"
+                class="id_Osmund_Kettleblack" cy="337.2183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="26.0" cx="-158.53502"
+                class="id_Ramsay_Snow" cy="-198.2277" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="30.0" cx="428.38028"
+                class="id_Aegon_IV_Targaryen" cy="247.81752" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="36.0" cx="404.79166"
+                class="id_Barth" cy="0.7761032" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="20.0" cx="-316.30328"
+                class="id_Ryman_Frey" cy="-31.683737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="26.0" cx="171.0002"
+                class="id_Bael_the_Bard" cy="-348.97366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="0.8311581"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="50" x="-374.65646" y="-306.79144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Brandon_Stark">
+            Brandon Stark
+        </text>
+        <text font-size="34" x="162.64198" y="-408.9607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Benjen_Stark">
+            Benjen Stark
+        </text>
+        <text font-size="22" x="192.0791" y="47.93051" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rhaegar_Targaryen">
+            Rhaegar Targaryen
+        </text>
+        <text font-size="30" x="-79.93199" y="-257.703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luwin">
+            Luwin
+        </text>
+        <text font-size="38" x="-535.52136" y="-118.44662" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hoster_Tully">
+            Hoster Tully
+        </text>
+        <text font-size="26" x="-90.63718" y="9.831247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arthur_Dayne">
+            Arthur Dayne
+        </text>
+        <text font-size="44" x="-284.6555" y="231.2221" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cersei_Lannister">
+            Cersei Lannister
+        </text>
+        <text font-size="40" x="444.5842" y="107.10736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Baelor_I_Targaryen">
+            Baelor I Targaryen
+        </text>
+        <text font-size="32" x="-393.81757" y="131.10063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aerys_II_Targaryen">
+            Aerys II Targaryen
+        </text>
+        <text font-size="42" x="-60.72754" y="-133.06787" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wyman_Manderly">
+            Wyman Manderly
+        </text>
+        <text font-size="38" x="601.77673" y="-28.541758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cellador">
+            Cellador
+        </text>
+        <text font-size="32" x="-195.33577" y="376.591" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Renly_Baratheon">
+            Renly Baratheon
+        </text>
+        <text font-size="36" x="317.77194" y="206.69565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Boros_Blount">
+            Boros Blount
+        </text>
+        <text font-size="30" x="-107.95649" y="-363.76846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rickon_Stark">
+            Rickon Stark
+        </text>
+        <text font-size="38" x="29.154821" y="291.7959" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Loras_Tyrell">
+            Loras Tyrell
+        </text>
+        <text font-size="44" x="448.09128" y="-164.25644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Janos_Slynt">
+            Janos Slynt
+        </text>
+        <text font-size="26" x="373.67917" y="-303.45184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cotter_Pyke">
+            Cotter Pyke
+        </text>
+        <text font-size="20" x="480.91815" y="-243.26172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bowen_Marsh">
+            Bowen Marsh
+        </text>
+        <text font-size="34" x="-101.39938" y="78.5472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ilyn_Payne">
+            Ilyn Payne
+        </text>
+        <text font-size="26" x="146.62704" y="-260.00116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samwell_Tarly">
+            Samwell Tarly
+        </text>
+        <text font-size="18" x="-310.65698" y="21.342237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Yohn_Royce">
+            Yohn Royce
+        </text>
+        <text font-size="34" x="-1.6044466" y="156.68602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Meryn_Trant">
+            Meryn Trant
+        </text>
+        <text font-size="30" x="-342.68683" y="329.13696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Beric_Dondarrion">
+            Beric Dondarrion
+        </text>
+        <text font-size="36" x="153.19731" y="401.84677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moon_Boy">
+            Moon Boy
+        </text>
+        <text font-size="24" x="-395.33148" y="-231.55104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jon_Umber">
+            Jon Umber
+        </text>
+        <text font-size="30" x="-245.73349" y="-65.562256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edmure_Tully">
+            Edmure Tully
+        </text>
+        <text font-size="34" x="-561.66943" y="162.10707" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kevan_Lannister">
+            Kevan Lannister
+        </text>
+        <text font-size="24" x="-400.95563" y="59.788414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vargo_Hoat">
+            Vargo Hoat
+        </text>
+        <text font-size="22" x="85.91695" y="-304.5015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Denys_Mallister">
+            Denys Mallister
+        </text>
+        <text font-size="18" x="-417.5357" y="-186.68565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rickard_Karstark">
+            Rickard Karstark
+        </text>
+        <text font-size="10" x="-147.73357" y="-23.075928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lysa_Arryn">
+            Lysa Arryn
+        </text>
+        <text font-size="34" x="116.23014" y="-32.96743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Davos_Seaworth">
+            Davos Seaworth
+        </text>
+        <text font-size="24" x="519.6953" y="-345.4365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Wallace_Waynwood">
+            Wallace Waynwood
+        </text>
+        <text font-size="24" x="115.91391" y="-214.88213" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mance_Rayder">
+            Mance Rayder
+        </text>
+        <text font-size="36" x="304.52563" y="-78.707405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Betharios_of_Braavos">
+            Betharios of Braavos
+        </text>
+        <text font-size="36" x="307.66208" y="343.88626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Osmund_Kettleblack">
+            Osmund Kettleblack
+        </text>
+        <text font-size="26" x="-158.53502" y="-192.12549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramsay_Snow">
+            Ramsay Snow
+        </text>
+        <text font-size="30" x="428.38028" y="254.76576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aegon_IV_Targaryen">
+            Aegon IV Targaryen
+        </text>
+        <text font-size="36" x="404.79166" y="7.3239546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Barth">
+            Barth
+        </text>
+        <text font-size="20" x="-316.30328" y="-27.051575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ryman_Frey">
+            Ryman Frey
+        </text>
+        <text font-size="26" x="171.0002" y="-344.24466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bael_the_Bard">
+            Bael the Bard
+        </text>
+    </g>
+</svg>
