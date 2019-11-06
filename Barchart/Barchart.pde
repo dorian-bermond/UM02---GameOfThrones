@@ -3,24 +3,27 @@
   //Defined
 //int MAX_LINK_DISTANCE = int(2 * typicalBallSize) ;
 String INDICATOR = "score" ;
-int MAX_NUMBER_OF_CHARACTERS = 25 ;
+int MAX_NUMBER_OF_CHARACTERS = 250 ;
 int TEXT_DISTANCE = 10 ;
 float BAR_SEPARATION_COEF = 0.25 ;
-int WIDTH_SCREEN_USED = 95 ;
-int HEIGHT_SCREEN_USED = 75 ;
-int PERCENTAGE_OF_X_AXIS_USED = 97 ;
+int WIDTH_SCREEN_USED = 85 ;
+int HEIGHT_SCREEN_USED = 60 ;
+int PERCENTAGE_OF_X_AXIS_USED = 100 ;
 int PERCENTAGE_OF_Y_AXIS_USED = 85 ;
-int AXIS_WIDTH = 5 ;
+int AXIS_WIDTH = 1 ;
 float BORDER_SIZE_COEF = 0.15 ;
 String TITLE = "Scores of the top " + MAX_NUMBER_OF_CHARACTERS + " Game of Thrones characters, acoording to the Wiki of Ice and Fire on *date*" ;
 String HEADLINE = "Interactions on Game Of Thrones characters" ;
+float PROPORTION_TOP = 2.0/3 ;
+float PROPORTION_LEFT = 1.0/2 ;
+float WIDEN_BUTTONS_COEF = 1.5 ;
 
 //Defined through the execution
 int xAxisSize = 0 ;
 int yAxisSize = 0 ;
 int barMaxSize = 0 ;
-int barWidth = 0 ;
-int barSeparation = 0 ;
+float barWidth = 0 ;
+//int barSeparation = 0 ;
 float maxInd = 0 ;
 float minInd = 0 ;
 float incrementOfMaxInd = 0 ;
@@ -28,6 +31,7 @@ float incrementOfMinInd = 0 ;
 int xOrigin = 0 ;
 int yOrigin = 0 ;
 int buttonsSize = 0 ;
+int buttonsY = 0 ;
 ArrayList<Float> graduations = new ArrayList<Float>() ;
 
 //Function related
@@ -47,22 +51,23 @@ void drawTitle()
   fill(0) ;
   //Headline
   textSize(24) ;
-  text(HEADLINE, width / 2, 0) ; 
+  text(HEADLINE, width / 2, 0) ;
   //Title
   textSize(18) ;
   text(TITLE, width / 2, 30) ;
 }
 
-void initDimensions() 
+void initDimensions()
 {
   xAxisSize = int(width * WIDTH_SCREEN_USED / 100) ;
   yAxisSize = int(height * HEIGHT_SCREEN_USED / 100) ;
   barMaxSize = int(yAxisSize * PERCENTAGE_OF_Y_AXIS_USED / 100) ;
-  barWidth = int((xAxisSize * PERCENTAGE_OF_X_AXIS_USED / 100) / (MAX_NUMBER_OF_CHARACTERS * (1.0 + BAR_SEPARATION_COEF))) ;
-  barSeparation = int(barWidth * BAR_SEPARATION_COEF) ;
-  xOrigin = int((width - xAxisSize) * 3 / 4) ; 
-  yOrigin = height - int((height - yAxisSize) / 4) ; 
-  buttonsSize = min(yAxisSize - barMaxSize, int((xAxisSize * 3 / 4) / 10)) ;
+  barWidth = (xAxisSize * PERCENTAGE_OF_X_AXIS_USED / 100) / (MAX_NUMBER_OF_CHARACTERS * (1.0 + BAR_SEPARATION_COEF) + 2.0 * BAR_SEPARATION_COEF) ;
+  //barSeparation = int(barWidth * BAR_SEPARATION_COEF) ;
+  xOrigin = int((width - xAxisSize) * PROPORTION_LEFT) ;
+  yOrigin = height - int((height - yAxisSize) * (1.0 - PROPORTION_TOP)) ;
+  buttonsSize = int(min(yAxisSize - barMaxSize, int((xAxisSize * 3 / 4) / 10)) * WIDEN_BUTTONS_COEF) ;
+  buttonsY = yOrigin - yAxisSize ;
 }
 
 class House
@@ -225,14 +230,12 @@ class Button
   House house ;
   String name ;
   int posXleftUpCorner ;
-  int posYleftUpCorner ;
 
   Button(House Maison, String Name, int index)
   {
     house = Maison ;
     name = Name ;
     posXleftUpCorner = int(xOrigin + xAxisSize - (10 - index) * buttonsSize) ;
-    posYleftUpCorner = yOrigin - yAxisSize ;
     //println("Button #" + index + " : X = " + posXleftUpCorner + " ; Y = " + posYleftUpCorner) ;
   }
 }
@@ -280,7 +283,8 @@ class Bar
   int index ;
   int size ;
   float indicator ;
-  int posX ;
+  float posX ;
+  boolean hovered ;
 
   Bar (String Name, int Size, House itsHouse, float Indicator)
   {
@@ -290,7 +294,8 @@ class Bar
     index = currentIndex ;
     size = Size ;
     indicator = Indicator ;
-    posX = xOrigin + AXIS_WIDTH + int(barWidth * (index * (1 + BAR_SEPARATION_COEF) + BAR_SEPARATION_COEF)) ;
+    posX = xOrigin + AXIS_WIDTH + barWidth * (index * (1 + BAR_SEPARATION_COEF) + BAR_SEPARATION_COEF) ;
+    hovered = false ;
   }
 }
 
@@ -303,19 +308,59 @@ void drawBar(Bar bar)
   {
     //Bar
     //fill(bar.house.fillColor[0], bar.house.fillColor[1], bar.house.fillColor[2]) ;
-    strokeWeight(2) ;
+    strokeWeight(AXIS_WIDTH) ;
     stroke(0) ;
-    if (bar.house.hovered)
-      fill(235, 0, 0) ;
-    else
-      fill(235) ;
-    rect(bar.posX, yOrigin - bar.size, barWidth, bar.size) ;
+    noStroke() ;
+
+    if (bar.hovered)
+    {
+      int whiteRectOpacity = 220 ;
+      
+      //Redraw Red Bar
+      fill(255, 0, 0) ;
+      rect(bar.posX, yOrigin - bar.size, barWidth, bar.size) ;
+      stroke(255, 0, 0, 255) ;
+      strokeWeight(int(AXIS_WIDTH / 2)) ;
+      line(xOrigin - gradSize, yOrigin - bar.size, xOrigin + xAxisSize + gradSize, yOrigin - bar.size) ;
+      fill(255, 0, 0) ;
+      textSize(12) ;
+      //Left graduation
+      textAlign(RIGHT, BOTTOM) ;
+      text(bar.indicator, xOrigin - gradSize -gradTextSpace, yOrigin - bar.size - initialsTextSpace) ;
+      //Left graduation
+      textAlign(LEFT, BOTTOM) ;
+      text(bar.indicator, xOrigin + xAxisSize + gradSize + gradTextSpace, yOrigin - bar.size - initialsTextSpace) ;
+      /*if (float(index) / MAX_NUMBER_OF_CHARACTERS < 0.5)
+      {*/
+        textAlign(RIGHT, BOTTOM) ;
+        text(bar.name, xOrigin + xAxisSize - barWidth * BAR_SEPARATION_COEF, yOrigin - bar.size - initialsTextSpace) ;
+      //} else {
+        noStroke() ;
+        fill(255, whiteRectOpacity) ;
+        rect(xOrigin + barWidth * BAR_SEPARATION_COEF, yOrigin - bar.size - (initialsTextSpace / 2) - 16, int(bar.name.length() * 7), 20) ;
+        textAlign(LEFT, BOTTOM) ;
+        fill(255, 0, 0) ;
+        text(bar.name, xOrigin + barWidth * BAR_SEPARATION_COEF, yOrigin - bar.size - initialsTextSpace) ;
+      //}
+      //println("Triggered on index " + index) ;
+    } else {
+      if (bar.house.hovered)
+        fill(105) ;
+      else
+        fill(205) ;
+      rect(bar.posX, yOrigin - bar.size, barWidth, bar.size) ;
+
+    }
     //Text
     textAlign(CENTER, CENTER) ;
     //fill(bar.house.borderColor[0] * darkenTextPercent / 100, bar.house.borderColor[1] * darkenTextPercent / 100, bar.house.borderColor[2] * darkenTextPercent / 100) ;
-    fill(0) ;
-    textSize(12) ;
-    text(bar.initials, bar.posX + int(barWidth / 2), yOrigin + initialsTextSpace) ;
+    if (barWidth > 50)
+    {
+      fill(0) ;
+      textSize(12) ;
+      textAlign(CENTER, TOP) ;
+      text(bar.initials, bar.posX + int(barWidth / 2), yOrigin + initialsTextSpace) ;
+    }
     //println("initials = " + bar.initials) ;
   }
 }
@@ -334,7 +379,7 @@ float get10power(float indicator)
         result /= 10 ;
     } else {
       while (indicator > result)
-        result *= 10 ;  
+        result *= 10 ;
         result /= 10 ;
     }
   } else {
@@ -345,10 +390,10 @@ float get10power(float indicator)
         result /= 10 ;
     } else {
       while (indicator < result)
-        result *= 10 ;  
+        result *= 10 ;
       result /= 10 ;
     }
-  }  
+  }
   return result ;
 }
 
@@ -360,7 +405,7 @@ void defineGraduations()
   float upperLimit = maxInd ;
   /*println("maxInd = " + maxInd + " maxInd10Power = " + maxInd10Power) ;
   println("minInd = " + minInd + " minInd10Power = " + minInd10Power) ;*/
-  for (int time = 0 ; time < 2 && maxInd10Power >= minInd10Power ; time++) 
+  for (int time = 0 ; time < 2 && maxInd10Power >= minInd10Power ; time++)
   {
     graduations.clear() ;
     for (float i = 0 ; maxInd10Power * i < upperLimit ; i += 2.5)
@@ -378,7 +423,7 @@ void defineGraduations()
   }
   graduations.add(maxInd) ;
   graduations.add(0.0) ;
-  /*println("Grad = ") ; 
+  /*println("Grad = ") ;
   for (Float grad : graduations)
     print(grad + ", ") ;
   println(".") ;*/
@@ -396,29 +441,53 @@ void drawAxis()
   //Define y axis scale
   for (Float grad : graduations)
   {
-    int gradHeight = int(barMaxSize * grad / maxInd) ; 
+    int gradHeight = int(barMaxSize * grad / maxInd) ;
     line(xOrigin, yOrigin - gradHeight, xOrigin - gradSize, yOrigin - gradHeight) ;
     if (int(grad) == grad)
       text(int(grad), xOrigin - gradSize - gradTextSpace, yOrigin - gradHeight) ;
     else
       text(str(grad), xOrigin - gradSize - gradTextSpace, yOrigin - gradHeight) ;
   }
-  //Unit oy Y xAxis
-  text(INDICATOR, xOrigin - arrowWidth / 2 - gradTextSpace, yOrigin - yAxisSize) ; 
-  //Design 
-  fill(255) ;  
-  //X Axis
-  line(xOrigin, yOrigin, xOrigin + xAxisSize, yOrigin) ;
-  triangle(xOrigin + xAxisSize, yOrigin, xOrigin + xAxisSize - arrowHeight, yOrigin - arrowWidth / 2 , xOrigin + xAxisSize - arrowHeight, yOrigin + arrowWidth / 2) ;
+  //Unit of Y xAxis
+  text(INDICATOR, xOrigin - arrowWidth / 2 - gradTextSpace, yOrigin - yAxisSize) ;
+  //Design
+  fill(255) ;
   //Y Axis
   line(xOrigin, yOrigin - yAxisSize, xOrigin, yOrigin) ;
   triangle(xOrigin, yOrigin - yAxisSize, xOrigin - arrowWidth / 2, yOrigin - yAxisSize + arrowHeight, xOrigin + arrowWidth / 2, yOrigin - yAxisSize + arrowHeight) ;
+  //Graduation Design
+  strokeWeight(AXIS_WIDTH) ;
+  stroke(0) ;
+  fill(0) ;
+  textSize(12) ;
+  textAlign(LEFT, CENTER) ;
+  //Define secondary y axis scale
+  for (Float grad : graduations)
+  {
+    int gradHeight = int(barMaxSize * grad / maxInd) ;
+    line(xOrigin + xAxisSize, yOrigin - gradHeight, xOrigin + xAxisSize + gradSize, yOrigin - gradHeight) ;
+    if (int(grad) == grad)
+      text(int(grad), xOrigin + xAxisSize + gradSize + gradTextSpace, yOrigin - gradHeight) ;
+    else
+      text(str(grad), xOrigin + xAxisSize + gradSize + gradTextSpace, yOrigin - gradHeight) ;
+  }
+  //Unit of secondary Y xAxis
+  text(INDICATOR, xOrigin + xAxisSize + arrowWidth / 2 + gradTextSpace, yOrigin - yAxisSize) ;
+  //Design
+  fill(255) ;
+  //secondary Y Axis
+  line(xOrigin + xAxisSize, yOrigin - yAxisSize, xOrigin + xAxisSize, yOrigin) ;
+  triangle(xOrigin + xAxisSize, yOrigin - yAxisSize, xOrigin - arrowWidth / 2  + xAxisSize, yOrigin - yAxisSize + arrowHeight, xOrigin + arrowWidth / 2  + xAxisSize, yOrigin - yAxisSize + arrowHeight) ;
+  //X Axis
+  line(xOrigin, yOrigin, xOrigin + xAxisSize, yOrigin) ;
+  //triangle(xOrigin + xAxisSize, yOrigin, xOrigin + xAxisSize - arrowHeight, yOrigin - arrowWidth / 2 , xOrigin + xAxisSize - arrowHeight, yOrigin + arrowWidth / 2) ;
+
 }
 
 void setup()
 {
   //fullScreen() ;
-  size(1300, 760) ;
+  size(1300, 650) ;
   initHouses() ;
   initDimensions() ;
   initButtons();
@@ -430,19 +499,19 @@ void setup()
 
   table = loadTable("../GOT.csv", "header") ;
   table.sortReverse(INDICATOR) ;
-  
+
   maxInd = table.getRow(0).getFloat(INDICATOR) ;
   incrementOfMaxInd = get10power(maxInd) / 4 ;
   if ((maxInd % incrementOfMaxInd) != 0)
     maxInd = (int(maxInd / incrementOfMaxInd) + 1) * incrementOfMaxInd ;
-    
-  minInd = table.getRow(MAX_NUMBER_OF_CHARACTERS).getFloat(INDICATOR) ;    
+
+  minInd = table.getRow(MAX_NUMBER_OF_CHARACTERS).getFloat(INDICATOR) ;
   incrementOfMinInd = get10power(minInd) / 4 ;
   if ((minInd % incrementOfMinInd) != 0)
     minInd = (int(minInd / incrementOfMinInd) + 1) * incrementOfMinInd ;
 
   defineGraduations() ;
-    
+
   for (int i = 0 ; i < MAX_NUMBER_OF_CHARACTERS ; i++)
   {
     row = table.getRow(i) ;
@@ -465,23 +534,29 @@ void drawButtons()
     {
       stroke(but.house.borderColor[0], but.house.borderColor[1], but.house.borderColor[2]) ;
       fill(but.house.fillColor[0], but.house.fillColor[1], but.house.fillColor[2]) ;
-      rect(but.posXleftUpCorner - int(borderSize / 2) , but.posYleftUpCorner + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
+      rect(but.posXleftUpCorner - int(borderSize / 2) , buttonsY + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
       fill(but.house.borderColor[0], but.house.borderColor[1], but.house.borderColor[2]) ;
-      text(but.name, but.posXleftUpCorner - int(borderSize / 2) , but.posYleftUpCorner + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
+      text(but.name, but.posXleftUpCorner - int(borderSize / 2) , buttonsY + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
     }
     else
     {
       stroke(but.house.borderColor[0], but.house.borderColor[1], but.house.borderColor[2], 100) ;
       fill(but.house.fillColor[0], but.house.fillColor[1], but.house.fillColor[2], 100) ;
-      rect(but.posXleftUpCorner - int(borderSize / 2), but.posYleftUpCorner + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
+      rect(but.posXleftUpCorner - int(borderSize / 2), buttonsY + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
       fill(but.house.borderColor[0], but.house.borderColor[1], but.house.borderColor[2], 100) ;
-      text(but.name, but.posXleftUpCorner - int(borderSize / 2) , but.posYleftUpCorner + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
+      text(but.name, but.posXleftUpCorner - int(borderSize / 2) , buttonsY + int(borderSize / 2), buttonsSize - borderSize, buttonsSize - borderSize) ;
     }
   }
 }
 
 void hover()
 {
+  //Init all to false
+  for (Button but : buttons)
+    but.house.hovered = false ;
+  for (Bar bar : tabBar)
+    bar.hovered = false ;
+    
   if (mouseX >= xOrigin && mouseX <= xOrigin + xAxisSize)
   {
     // In the graph
@@ -497,36 +572,17 @@ void hover()
         Bar hoveredBar = tabBar.get(index) ;
         if (graphicsY > 0 && graphicsY <= hoveredBar.size && hoveredBar.house.active)
           {
-            stroke(255, 0, 0, 255) ;
-            strokeWeight(int(AXIS_WIDTH / 2)) ;
-            line(xOrigin, yOrigin - hoveredBar.size, xOrigin + xAxisSize, yOrigin - hoveredBar.size) ;
-            textAlign(CENTER, CENTER) ;
-            fill(255, 0, 0) ;
-            textSize(12) ;
-            text(hoveredBar.indicator, int(hoveredBar.posX + (barWidth / 2) - 2), yOrigin - hoveredBar.size - initialsTextSpace) ;
-            if (float(index) / MAX_NUMBER_OF_CHARACTERS < 0.5)
-            {
-              textAlign(RIGHT, CENTER) ;
-              text(hoveredBar.name, xOrigin + xAxisSize, yOrigin - hoveredBar.size - initialsTextSpace) ;
-            } else {
-              noStroke() ;
-              fill(255, 110) ;
-              rect(xOrigin + barWidth * BAR_SEPARATION_COEF, yOrigin - hoveredBar.size - (initialsTextSpace / 2) - 16, int(hoveredBar.name.length() * 7), 20) ;
-              textAlign(LEFT, CENTER) ;
-              fill(255, 0, 0) ;
-              text(hoveredBar.name, xOrigin + barWidth * BAR_SEPARATION_COEF, yOrigin - hoveredBar.size - initialsTextSpace) ;
-            }
-            //println("Triggered on index " + index) ;
+            hoveredBar.hovered = true ;
           }
       }
-    } else {
+    } else if (mouseY >= buttonsY && mouseY <= buttonsY + buttonsSize) {
       //Potentially houses
       for (Button but : buttons)
       {
         int temp = mouseX - but.posXleftUpCorner ;
         if (temp >= 0 && temp < buttonsSize)
           but.house.hovered = true ;
-        else 
+        else
           but.house.hovered = false ;
       }
     }
@@ -535,19 +591,17 @@ void hover()
 
 void draw()
 {
-  background(200) ;
-  hover() ;
+  background(255) ;
   drawButtons() ;
   for (Bar bar : tabBar)
     drawBar(bar) ;
   drawAxis() ;
   drawTitle() ;
-  
+  hover() ;
 }
 
 void mouseClicked()
 {
-  int buttonsY = buttons.get(0).posYleftUpCorner ;
   int firstButtonX = buttons.get(0).posXleftUpCorner ;
   if (mouseX >= firstButtonX && mouseX <= firstButtonX + 10 * buttonsSize && mouseY >= buttonsY && mouseY <= buttonsY + buttonsSize)
   {
